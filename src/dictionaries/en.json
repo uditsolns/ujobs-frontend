@@ -1,0 +1,744 @@
+{
+  "common": {
+    "title": "Ujobs India",
+    "findJobs": "Find Job",
+    "hireCandidates": "Hire Staff",
+    "downloadApp": "Get App",
+    "login": "Login",
+    "logout": "Logout",
+    "dashboard": "My Dashboard",
+    "postJob": "Hire Staff",
+    "search": "Search",
+    "location": "City / Locality",
+    "allCategories": "All Categories",
+    "selectLanguage": "Language",
+    "verified": "Trusted Profiles",
+    "salary": "Monthly Pagar",
+    "applyNow": "Apply Now",
+    "viewDetails": "View Details",
+    "home": "Home",
+    "jobs": "Jobs",
+    "verifiedProfiles": "Trusted Profiles",
+    "oneHundredPercentVerified": "Trusted Profiles",
+    "millionUsers": "10,000+ Families",
+    "trustedPlatform": "Trusted Platform",
+    "bestRated": "Highly Rated",
+    "rating48": "4.5★ Rating",
+    "secure": "Safe & Secure",
+    "dataProtected": "Bank-Grade Security"
+  },
+  "navigation": {
+    "home": "Home",
+    "jobs": "Find Job",
+    "candidates": "Hire Staff",
+    "hire": "Post a Job",
+    "login": "Login",
+    "logout": "Logout",
+    "profile": "My Profile",
+    "downloadApp": "Get App"
+  },
+  "search": {
+    "placeholder": "Search jobs - Driver, Nurse, Maid, Guard...",
+    "candidatePlaceholder": "Find trusted staff nearby...",
+    "searchButton": "Find Jobs",
+    "filters": "Filter",
+    "clearFilters": "Clear",
+    "results": "{{count}} jobs found",
+    "noResults": "No jobs found"
+  },
+  "filters": {
+    "category": "Work Type",
+    "location": "City / Locality",
+    "experience": "Experience (Tajurba)",
+    "salary": "Salary / Pay (Pagar)",
+    "employmentType": "Shift Type",
+    "allCategories": "All Categories",
+    "allLocations": "All Cities",
+    "apply": "Apply",
+    "clear": "Reset"
+  },
+  "cta": {
+    "applyNow": "Apply Now",
+    "viewDetails": "View Job",
+    "downloadApp": "Download App to Apply",
+    "unlockContact": "View Number",
+    "contactViaApp": "Chat on App",
+    "viewProfile": "View Profile",
+    "saveJob": "Save",
+    "shareJob": "Share"
+  },
+  "auth": {
+    "login": {
+      "trustTitle": "Direct & Secure Care Staffing",
+      "trustSubtitle": "Find Trusted Nurses, Caretakers, and Drivers near you with zero middlemen.",
+      "trustPoints": [
+        "ID & Aadhaar Trusted Staff",
+        "Direct Contact - Zero Commission",
+        "Over 10,000+ Families Served"
+      ],
+      "joinedBy": "Join <strong>10K+</strong> families and workers already connected.",
+      "newAccount": "New Account",
+      "welcomeBack": "Welcome Back",
+      "title": "Login to Ujobs India",
+      "subtitlePhone": "Enter your mobile number to receive a secure OTP.",
+      "subtitleOTP": "We have sent a 6-digit Profile Vetting code to {phone}.",
+      "subtitleRegister": "Let's complete your profile to find Trusted Staff.",
+      "hirerTab": "I want to Hire",
+      "workerTab": "I want a Job",
+      "phoneLabel": "Mobile Number",
+      "phonePlaceholder": "Enter 10-digit mobile number",
+      "getOTP": "Send OTP",
+      "otpLabel": "Profile Vetting Code (OTP)",
+      "otpPlaceholder": "Enter 6-digit OTP",
+      "verifyLogin": "Check & Login",
+      "changePhone": "Change Mobile Number",
+      "termsText": "By logging in, you agree to our {terms} and {privacy}."
+    },
+    "register": {
+      "completeProfile": "Complete Your Profile",
+      "completeProfileSub": "Just a few more details to get your account fully Trusted and ready.",
+      "title": "Create Free Account",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "name@example.com",
+      "verifiedPhone": "Mobile Number Trusted",
+      "submit": "Submit & Create Account"
+    },
+    "errors": {
+      "invalidPhone": "Please enter a valid 10-digit mobile number.",
+      "otpFailed": "Failed to send OTP. Please try again.",
+      "invalidOTP": "Invalid Profile Vetting code. Please check and try again.",
+      "registrationFailed": "Registration failed. Please try again.",
+      "nameRequired": "Full Name is required."
+    }
+  },
+  "landing": {
+    "categoryJobsInIndia": "Trusted {{category}} for your Home",
+    "jobsInCityWithState": "Trusted Staff in {{city}}",
+    "verifiedJobsAvailable": "{{count}} Trusted {{category}} ready to work",
+    "verifiedJobsAvailableInCity": "{{count}} Trusted Staff available in {{city}}",
+    "exploreOpportunities": "Find trusted {{category}} for your family",
+    "exploreOpportunitiesInCity": "Find trusted staff in {{city}}",
+    "browseAllJobs": "View All Staff",
+    "hireCategory": "Hire {{category}}",
+    "latestJobsInCategory": "New {{category}} Openings",
+    "latestJobsInCity": "New Openings in {{city}}",
+    "noJobsAvailableInCategory": "Need a {{category}}?",
+    "noJobsAvailableInCategoryDesc": "We are adding new Trusted Staff daily. Register now to get notified.",
+    "noJobsAvailableInCity": "No Staff in {{city}} Today",
+    "noJobsAvailableInCityDesc": "Check nearby areas or get alerted when staff registers.",
+    "registerForJobAlerts": "Get Staff Alerts",
+    "jobsInTopCities": "Staff in Cities",
+    "downloadApp": "Get Safe Hiring App"
+  },
+  "hero": {
+    "trustIndicator": "Trusted by 10,000+ Families for Home Care",
+    "h1_line1": "Trusted Nurses & Drivers.",
+    "h1_line2": "Hire Directly.",
+    "description": "Find trusted <span class=\"text-neutral-900 font-black underline decoration-brand-500/30 underline-offset-4\">Nurses, Maids, and Drivers</span> for your family. A platform for Trusted home and office staff.",
+    "verified_label": "Trusted Profiles",
+    "verified_sub": "Trusted ID Staff",
+    "support_label": "Family Support",
+    "support_sub": "Always Here to Help",
+    "direct_label": "Direct Call",
+    "direct_sub": "No Commission",
+    "mobile_app_badge": "Safe Hiring App",
+    "mobile_app_title": "Hire trusted help <span class=\"text-brand-600 italic\">from your phone.</span>",
+    "google_play_sub": "Google Play",
+    "google_play_main": "GET IT ON",
+    "app_store_sub": "App Store",
+    "app_store_main": "DOWNLOAD",
+    "direct_hire_title": "Hire Trusted Home Staff Directly",
+    "top_choice": "Trusted Top Choice",
+    "available": "Ready to Work",
+    "placeholder_city": "Enter your City",
+    "placeholder_search": "Find Nurse, Patient Caretaker, Medical Attendant, Driver...",
+    "find_now": "Find Staff Now",
+    "services_label": "Services:",
+    "cities_label": "Cities:"
+  },
+  "trustBar": {
+    "verified": {
+      "label": "Trusted Profiles",
+      "desc": "Trusted ID Staff"
+    },
+    "users": {
+      "label": "10,000+ Families",
+      "desc": "Trusted Platform"
+    },
+    "rated": {
+      "label": "Highly Rated",
+      "desc": "4.5★ Rating"
+    },
+    "secure": {
+      "label": "Bank-Grade Security",
+      "desc": "Data Protected"
+    }
+  },
+  "home": {
+    "stats": {
+      "verifiedOpenings": "Active Jobs",
+      "activeProfessionals": "Trusted Staff",
+      "citiesCovered": "Cities Covered",
+      "customerSupport": "24/7 Support"
+    },
+    "whyUjobs": {
+      "badge": "Safe & Simple",
+      "title": "Trusted Home Care <span class=\"text-brand-600\">Staffing</span>",
+      "italic": "\"Because finding a <strong>Caretaker</strong> or <strong>Driver</strong> shouldn't be a risk.\"",
+      "description": "We connect <strong>Trusted professionals</strong> with families who need <strong>reliable help</strong>. From elderly care to safe driving, we've got you covered.",
+      "features": [
+        {
+          "title": "Identity Trusted",
+          "desc": "Every staff member has a <strong>Trusted identity</strong> for your family's peace of mind."
+        },
+        {
+          "title": "Hire Directly",
+          "desc": "Talk <strong>directly</strong> to the staff. No agencies, no middleman fees, and no hidden costs."
+        },
+        {
+          "title": "Fast & Reliable",
+          "desc": "Find a <strong>Nurse</strong>, <strong>Caretaker</strong>, or <strong>Driver</strong> today. Flexible options for any schedule."
+        }
+      ]
+    },
+    "hirerSection": {
+      "title": "Hire Trusted Staff",
+      "items": [
+        "Trusted Nurses and Caretakers",
+        "Vetted Drivers and Maids",
+        "Talk directly to staff (No Agencies)",
+        "Hire for 12h, 24h, or Full-time",
+        "Trusted documents available on app"
+      ],
+      "cta": "Hire Staff Now"
+    },
+    "workerSection": {
+      "title": "Find Safe Jobs",
+      "items": [
+        "Genuine jobs from Trusted families",
+        "Work near your home and save time",
+        "Get paid the full salary (No Commission)",
+        "Trusted profile helps you get hired faster",
+        "Support team to help you stay safe"
+      ],
+      "cta": "Create Free Profile"
+    },
+    "howItWorks": {
+      "title": "How to Hire or Get Hired",
+      "steps": [
+        {
+          "title": "Quick Register",
+          "desc": "Create your profile with mobile number in 10 seconds."
+        },
+        {
+          "title": "Search & Match",
+          "desc": "Find Trusted Staff or jobs in your own locality."
+        },
+        {
+          "title": "Call Directly",
+          "desc": "Connect instantly, talk directly, and discuss requirements directly."
+        }
+      ]
+    },
+    "specializations": {
+      "badge": "Trusted Home Staff",
+      "title": "Trusted help for your <span class=\"text-brand-600\">Family</span>",
+      "description": "Find specialized care and help for your home with Trusted Profiles.",
+      "mostSearched": "Top <span class=\"text-brand-600\">Home Categories</span>",
+      "browseAll": "View All Staff"
+    },
+    "featuredProfessionals": {
+      "badge": "Top Choice",
+      "title": "Highest Rated <span class=\"text-brand-600\">Staff</span>",
+      "description": "Browse trusted professionals ready to help your family today.",
+      "cta": "Browse All Staff"
+    },
+    "testimonials": {
+      "badge": "Success Stories",
+      "title": "Trusted by <span class=\"text-brand-600\">Lakhs of Indians</span>",
+      "description": "See how Ujobs India is transforming the way people find work and hire staff.",
+      "items": [
+        {
+          "name": "Rajesh Kumar",
+          "role": "Delivery Partner",
+          "text": "I was looking for a job for 2 months. Within 3 days of joining Ujobs India, I got a job as a delivery partner in Mumbai. The daily payment system is very helpful.",
+          "location": "Mumbai, Maharashtra",
+          "verified": true
+        },
+        {
+          "name": "Priya Sharma",
+          "role": "Talent Acquisition",
+          "company": "Logistics Pro",
+          "text": "Hiring for warehouse staff used to take weeks. With Ujobs, we get Trusted candidates within hours. The quality of applicants is much higher than other platforms.",
+          "location": "Bangalore, Karnataka",
+          "verified": true
+        },
+        {
+          "name": "Vikram Singh",
+          "role": "Security Supervisor",
+          "text": "Found a job near my home in Delhi. The app helped me create a professional profile even though I don't have a resume. Very easy to use!",
+          "location": "New Delhi",
+          "verified": true
+        },
+        {
+          "name": "Sneha Patel",
+          "role": "Telecalling Executive",
+          "text": "I like how the app shows jobs only in my preferred language. I found a great role in Ahmedabad with a good salary and supportive team.",
+          "location": "Ahmedabad, Gujarat",
+          "verified": true
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "category": "Application Process",
+          "question": "How do I apply for jobs on Ujobs India?",
+          "answer": "Applying is easy! 1. Download the app, 2. Complete your profile (no resume needed!), 3. Search for jobs in your city, 4. Click <strong>\"Quick Apply\"</strong>. Employers will contact you directly via call or WhatsApp."
+        },
+        {
+          "category": "Payments",
+          "question": "Is Ujobs India free for job seekers?",
+          "answer": "<strong>Yes, Free for Job Seekers.</strong> We never charge job seekers for applications, profile creation, or interviews. If someone asks for money representing Ujobs, please report it immediately."
+        },
+        {
+          "category": "Profile Vetting",
+          "question": "How are job postings Trusted?",
+          "answer": "Every employer on our platform undergoes a strict <strong>KYC Profile Vetting</strong> process. We Check their GST/PAN details and office location to ensure all job postings are genuine and safe."
+        },
+        {
+          "category": "Account",
+          "question": "Can I search for jobs in my local area?",
+          "answer": "Yes! Our smart location filter allows you to find jobs within <strong>5-10km of your home</strong>. This helps you save on travel time and costs."
+        },
+        {
+          "category": "Support",
+          "question": "What documents do I need to apply?",
+          "answer": "Most blue-collar jobs only require an <strong>Aadhaar Card</strong> and basic contact details. Some specialized roles might ask for a driving license or bank account details for salary transfers."
+        }
+      ]
+    },
+    "finalCta": {
+      "badge": "Trusted & Secure",
+      "title": "Find your trusted <span class=\"text-brand-600 italic\">home staff</span> today.",
+      "joinCount": "Join <span class=\"bg-gradient-to-r from-brand-600 to-blue-600 bg-clip-text text-transparent\">10K+</span> Families",
+      "hireIn": "Hire <span class=\"text-brand-600\">Directly</span>",
+      "middlemen": "<strong>Direct connect. No agency fees. Identity checked.</strong>",
+      "hireStaff": "Hire Staff Now",
+      "findJobs": "Find Safe Job",
+      "securityBadge": "Trusted & Secure",
+      "securityNotice": "⚠️ Staff profiles undergo identity check and credentials Profile Vetting."
+    }
+  },
+  "appBanner": {
+    "mobileApp": "Safe Hiring App",
+    "title": "Hire Trusted help <span class=\"bg-gradient-to-r from-brand-600 to-blue-600 bg-clip-text text-transparent\">directly from your phone.</span>",
+    "description": "Download the app for home staffing. Connect directly with Nurses, Drivers, and Maids near you.",
+    "features": {
+      "directChat": "Call Staff Directly",
+      "documentAccess": "View Profile Docs",
+      "jobAlerts": "Instant Staff Matches",
+      "securePayments": "Trusted & Secure"
+    },
+    "downloadOn": "Download on",
+    "getItOn": "Get it on",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "jobs": {
+    "salary": "Salary",
+    "shift": "Shift",
+    "gender": "Gender",
+    "experience": "Tajurba",
+    "requirements": "Staff Skills",
+    "recently": "Recently",
+    "applyNow": "Apply Now",
+    "available": "Available",
+    "opening": "Job Opening",
+    "negotiable": "Negotiable",
+    "notSpecified": "Not specified",
+    "fullTime": "Full Time",
+    "weekly": "Weekly",
+    "daily": "Daily",
+    "monthly": "Monthly",
+    "anyGender": "Any Gender",
+    "shiftNA": "Shift N/A",
+    "jobRequirements": "Staff Requirements"
+  },
+  "candidate": {
+    "name": "Full Name",
+    "age": "Age",
+    "gender": "Gender",
+    "education": "Education",
+    "experience": "Work Experience",
+    "expectedSalary": "Expected Salary",
+    "skills": "Professional Skills",
+    "languages": "Languages Known",
+    "location": "Preferred Location",
+    "verified": "Trusted",
+    "rating": "Rating",
+    "profileCompletion": "Profile Strength",
+    "unlockToView": "Unlock to see contact info",
+    "downloadAppToUnlock": "Get App to Unlock Profile"
+  },
+  "footer": {
+    "backgroundVerified": "Trusted Home Staff",
+    "ratedApp": "4.5★ Rated App",
+    "activeCities": "{count}+ Cities Covered",
+    "popularCategories": "Popular Categories",
+    "specializations": "Specializations",
+    "corporate": "Company",
+    "brandNarrative": "A secure platform for Trusted home and office help.",
+    "aboutUjobs": "About Us",
+    "contactUs": "Help & Support",
+    "blog": "Our Blog",
+    "careers": "Careers",
+    "mediaCoverage": "Media Coverage",
+    "officialApp": "Safe Hiring App",
+    "appDesc": "Connect directly with Nurses, Drivers, and Maids near you.",
+    "appBenefits": {
+      "directChat": "Direct Call",
+      "smartAlerts": "Smart Alerts",
+      "safeHiring": "Trusted Profiles"
+    },
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "regulatoryCompliance": "Regulatory Compliance",
+    "security": "Security & Vulnerability",
+    "copyright": "© {year} Ujobs India. All Rights Reserved.",
+    "redefining": "Redefining Home Staffing"
+  },
+  "about": {
+    "seo": {
+      "title": "About Ujobs India - Safe Home Care Staffing",
+      "description": "Learn about Ujobs India - A platform for hiring Trusted Nurses, Drivers, and Maids directly.",
+      "keywords": "about ujobs, Trusted home staff, safe hiring india"
+    },
+    "hero": {
+      "title": "Secure Way to Hire for your Home",
+      "description": "We are on a mission to bring safety and trust to every Indian household through Trusted professional staffing."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "desc": "To empower 100 million Indian households with safe, vetted, and reliable home help while providing dignified jobs to Trusted professionals."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "desc": "To be a preferred choice for families in India when it comes to caretaking, nursing, and safe driving needs."
+    },
+    "impact": {
+      "title": "Our Impact",
+      "subtitle": "Numbers that reflect our commitment to safety",
+      "jobSeekers": "Trusted Professionals",
+      "activeJobs": "Safe Job Openings",
+      "employers": "Happy Families",
+      "successfulHires": "Successful Hires"
+    },
+    "values": {
+      "title": "Our Core Values",
+      "subtitle": "What drives us everyday",
+      "list": [
+        {
+          "title": "Safety First",
+          "desc": "We never compromise on the security of your family."
+        },
+        {
+          "title": "Direct Connect",
+          "desc": "We believe in direct talk, zero middlemen, and zero commission."
+        },
+        {
+          "title": "Profile Vetting",
+          "desc": "Every profile is Aadhaar checked and Trusted for peace of mind."
+        },
+        {
+          "title": "Dignity",
+          "desc": "We respect the professionals on our platform and their hard work."
+        }
+      ]
+    },
+    "journey": {
+      "title": "Our Journey",
+      "subtitle": "Building trust since day one",
+      "milestones": [
+        {
+          "year": "2020",
+          "title": "The Idea",
+          "desc": "Started with a vision to make home hiring safer in India."
+        },
+        {
+          "year": "2021",
+          "title": "First 10,000",
+          "desc": "Helped 10,000 families find Trusted nurses and drivers."
+        },
+        {
+          "year": "2023",
+          "title": "App Launch",
+          "desc": "Launched the Ujobs Safe Hiring app for direct connect."
+        },
+        {
+          "year": "2026",
+          "title": "Pan-India",
+          "desc": "Now serving families across 500+ cities with 12 regional languages."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Hire Safely?",
+      "description": "Join 10K+ families who trust Ujobs for their home care needs.",
+      "button": "Download App Now"
+    }
+  },
+  "contact": {
+    "seo": {
+      "title": "Contact Ujobs India - 24/7 Family Support",
+      "description": "Need help hiring a nurse or driver? Contact our dedicated family support team anytime.",
+      "keywords": "contact ujobs, customer support, help hiring staff"
+    },
+    "hero": {
+      "title": "We're Here to Help Your Family",
+      "description": "Whether you're looking for help or have a question about Profile Vetting, our team is just a call away."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "Email Support",
+      "call": "Call Us",
+      "visit": "Visit Office",
+      "whatsapp": "WhatsApp Chat",
+      "address": "F11, First Floor, Raghuleela Mall, Poisar Kandivali (W), Mumbai, Maharashtra, India 400067"
+    },
+    "form": {
+      "title": "Send us a Message",
+      "description": "Have a specific requirement or feedback? Fill out the form below and we'll get back to you within 24 hours."
+    }
+  },
+  "download": {
+    "seo": {
+      "title": "Download Ujobs India - Safe Hiring App",
+      "description": "Get the Ujobs India app to hire Trusted Nurses, Drivers, and Maids directly from your phone. Connect with trusted professionals.",
+      "keywords": "download ujobs, hiring app, Trusted Staff app"
+    },
+    "hero": {
+      "title": "Get the Safe Hiring App",
+      "description": "A secure way to hire Trusted help for your home.",
+      "downloads": "Downloads",
+      "activeJobs": "Active Jobs",
+      "userRating": "User Rating"
+    },
+    "features": {
+      "title": "Why use the Ujobs App?",
+      "subtitle": "Everything you need to hire safely, right in your pocket.",
+      "list": [
+        {
+          "title": "Fast Hiring",
+          "desc": "Connect with staff in minutes."
+        },
+        {
+          "title": "Direct Chat",
+          "desc": "Talk directly with professionals."
+        },
+        {
+          "title": "Profile Docs",
+          "desc": "Access Profile Vetting documents."
+        },
+        {
+          "title": "Secure",
+          "desc": "Safe and secure platform."
+        }
+      ]
+    },
+    "howTo": {
+      "title": "How to Download & Get Started",
+      "steps": [
+        {
+          "title": "Download App",
+          "desc": "Get it from Play Store or App Store."
+        },
+        {
+          "title": "Register",
+          "desc": "Create your profile in 10 seconds."
+        },
+        {
+          "title": "Start Hiring",
+          "desc": "Search and connect with Trusted Staff."
+        }
+      ]
+    },
+    "cta": {
+      "description": "Join 10K+ families already using Ujobs.",
+      "android": "Download for Android",
+      "ios": "Download for iOS"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "Is the Ujobs India app free to download?",
+          "answer": "Yes, the Ujobs India app is 100% free to download and register. Both job seekers and employers can install the app, create their profiles, and explore opportunities without any upfront charges."
+        },
+        {
+          "question": "Which mobile platforms are supported?",
+          "answer": "Ujobs India is available on both Android (via the Google Play Store) and iOS (via the Apple App Store), ensuring seamless access across a wide range of smartphones and tablets."
+        },
+        {
+          "question": "Are the job seekers and employers Trusted on the app?",
+          "answer": "Absolutely. Ujobs India implements robust Profile Vetting and ID Profile Vetting systems. All candidates are Trusted so you can hire trusted domestic help, nurses, drivers, and other specialists with full peace of mind."
+        },
+        {
+          "question": "How do I connect directly with candidates?",
+          "answer": "Once you download the app and register, you can search for specialists in your area. Use our direct chat or call feature to schedule interviews instantly. There are no middlemen and no commission fees."
+        }
+      ]
+    }
+  },
+  "candidatesList": {
+    "badge": "Trusted Professionals",
+    "title": "Hire Trusted <span class=\"text-brand-600\">Staff</span> Directly",
+    "description": "Connect with trusted professionals across {count} categories. No middlemen, no commission.",
+    "activeCandidates": "Active Candidates",
+    "verifiedProfiles": "Trusted Profiles",
+    "searchFilters": "Search Filters",
+    "resetFilters": "Reset Filters",
+    "workCategory": "Work Category",
+    "allSpecializations": "All Specializations",
+    "locationPlaceholder": "Search City or Locality",
+    "genderPref": "Gender Preference",
+    "genderOptions": {
+      "all": "All",
+      "male": "Male",
+      "female": "Female"
+    },
+    "experienceLevel": "Experience Level",
+    "allLevels": "All Levels",
+    "expOptions": [
+      "0-1 Year",
+      "2-5 Years",
+      "5+ Years"
+    ],
+    "verifiedOnly": "Trusted Only",
+    "analyzingProfiles": "Analyzing profiles...",
+    "bestMatches": "{count} Relevant Matches Found",
+    "verifiedIndia": "Trusted Staff across India",
+    "sort": "Sort By",
+    "noProfessionalsFound": "No Professionals Found",
+    "noProfessionalsDesc": "Try adjusting your filters or search in a different location."
+  },
+  "jobsList": {
+    "searchPlaceholder": "Search for Driver, Nurse, Maid, Cook jobs...",
+    "locationPlaceholder": "Search City or Locality",
+    "searchButton": "Find Jobs",
+    "filters": "Filter",
+    "reset": "Reset",
+    "allLocations": "All Cities",
+    "categories": "Work Type",
+    "allCategories": "All Categories",
+    "categoryJobs": "Trusted <span class=\"text-brand-600\">{category}</span> ready to work",
+    "discoverOpportunities": "Discover <span class=\"text-brand-600\">New Opportunities</span>",
+    "searching": "Searching for Relevant Matches...",
+    "foundJobs": "{count} Confirmed Jobs available",
+    "showingResults": "Showing <strong>{count}</strong> results",
+    "noJobsFound": "No Jobs Found",
+    "noJobsDesc": "Try adjusting your filters or search in a different location.",
+    "clearFilters": "Clear All Filters"
+  },
+  "terms": {
+    "seo": {
+      "title": "Terms of Use | Ujobs India",
+      "description": "Read the terms of use, guidelines, and conditions for using the Ujobs India direct matching platform.",
+      "keywords": "terms of use, terms and conditions, ujobs legal, user agreement, direct hiring rules"
+    },
+    "hero": {
+      "title": "Terms of Use",
+      "lastUpdated": "Last Updated: June 2026"
+    },
+    "sections": [
+      {
+        "title": "1. Acceptance of Terms",
+        "content": "By downloading, installing, registering, or accessing the Ujobs India mobile application or website, you agree to be legally bound by these Terms of Use, our Privacy Policy, and all applicable laws and regulations in India. You must be at least 18 years of age to register or use our services. If you do not agree to these terms, you must immediately cease using the platform."
+      },
+      {
+        "title": "2. Platform Role & Non-Agency Disclaimer",
+        "content": "Ujobs India is an independent technology platform managed by Ayushya Healthcare Services. We operate solely as a matching utility to facilitate direct communication between household/corporate employers and independent job seekers. <strong>Ujobs India is not a recruitment agency, employment broker, or labor contractor.</strong> We do not employ, select, supervise, or recommend any workers listed on our platform.",
+        "list": [
+          "<strong>No Surety or Guarantees:</strong> We provide self-submitted profile indicators. We do not guarantee the performance, character, background safety, or legal eligibility of any job seeker.",
+          "<strong>Independent Due Diligence:</strong> Employers are strictly advised and responsible for performing their own independent reference checks, Aadhaar/ID checks, and interviewing candidates before hiring.",
+          "<strong>No Employment Contract:</strong> Any hiring arrangement or payment terms agreed upon are strictly private agreements between the employer and the worker."
+        ]
+      },
+      {
+        "title": "3. User Responsibilities & Conduct",
+        "content": "To maintain a safe and trustworthy community, all users agree to adhere to the following responsibilities when accessing our services:",
+        "list": [
+          "Provide 100% accurate, current, and complete registration details, and refrain from creating fraudulent or duplicate profiles.",
+          "Refrain from posting any abusive, offensive, defamatory, commercial spam, or illegal content.",
+          "Comply with all applicable local, state, and central laws, including fair employment, non-discrimination, and minimum wage guidelines.",
+          "Never solicit or charge money from job seekers for interview coordinates or job placements."
+        ]
+      },
+      {
+        "title": "4. Fair Work & Wage Standards",
+        "content": "Employers using Ujobs India agree to provide fair pay, safe and sanitary working conditions, and reasonable working hours to any hired worker. Discrimination based on gender, caste, religion, region, or physical ability is strictly prohibited. Misbehavior or failure to pay agreed-upon wages will lead to permanent account suspension and reporting to relevant local law enforcement authorities."
+      },
+      {
+        "title": "5. Limitation of Liability",
+        "content": "In no event shall Ujobs India, its directors, employees, parent company (Ayushya Healthcare Services), or affiliates be liable for any direct, indirect, incidental, special, or consequential damages, disputes, financial losses, or physical harm arising out of or in connection with the direct matching, direct calls, interviews, or hiring transactions conducted through our platform. All matches are done voluntarily and at the user's sole discretion."
+      }
+    ]
+  },
+  "privacy": {
+    "seo": {
+      "title": "Privacy Policy | Ujobs India",
+      "description": "Learn how Ujobs India collects, encrypts, and protects your personal information in compliance with the DPDP Act.",
+      "keywords": "privacy policy, data protection, dpdp act compliance, data encryption, user data security, ujobs privacy"
+    },
+    "hero": {
+      "title": "Privacy Policy",
+      "lastUpdated": "Last Updated: June 2026"
+    },
+    "sections": [
+      {
+        "title": "1. Information Collection",
+        "content": "To facilitate secure direct matches, we collect the personal information you voluntarily provide to us when registering on the Ujobs India mobile application:",
+        "list": [
+          "<strong>Registration Details:</strong> Name, verified mobile phone number, preferred language, role (Employer or Job Seeker), and profile photo.",
+          "<strong>Professional Profile (Job Seekers):</strong> Work category, years of experience, age, gender, expected salary, and approximate neighborhood location.",
+          "<strong>Self-Declared Documents:</strong> Aadhaar number, PAN details, or police clearance certificates uploaded voluntarily by the worker to confirm profile registration status."
+        ]
+      },
+      {
+        "title": "2. Compliance with Digital Personal Data Protection (DPDP) Act",
+        "content": "Ujobs India is fully compliant with the Digital Personal Data Protection (DPDP) Act of India. We employ enterprise-grade security protocols, including AES-256 data encryption at rest and secure TLS 1.3 encryption in transit, to ensure your private documents and data remain 100% safe from unauthorized access."
+      },
+      {
+        "title": "3. How We Use and Share Information",
+        "content": "Your data is only used to enable direct staffing connections. We display basic profile details (Name, Experience, Neighborhood) and verification indicators (like 'ID-Checked') to verified employers on our platform. <strong>We do not sell, rent, or lease your private contact numbers or documents to third-party advertisers or external marketing networks under any circumstances.</strong>"
+      },
+      {
+        "title": "4. Location Services & Permissions",
+        "content": "Our app utilizes approximate location data (with your active, explicit consent) to display suitable jobs and candidate profiles within a 5-10km radius of your home. This data is processed locally on our servers and is never permanently stored or shared with external parties."
+      },
+      {
+        "title": "5. User Rights, Data Deletion, and Correction",
+        "content": "Under privacy regulations, you retain full rights over your personal data. You can access, edit, update, or permanently delete your account and uploaded documents at any time. Simply use the in-app account settings, or contact our support helpline directly at <span className=\"text-brand-600 font-bold\">support@ujobsindia.com</span> to request immediate data purge.",
+        "list": [
+          "Request data correction or update",
+          "Withdraw consent for location tracking",
+          "Initiate permanent account and document deletion"
+        ]
+      }
+    ]
+  },
+  "seo": {
+    "title": "Ujobs India - Hire Trusted Staff & Find Confirmed Jobs",
+    "description": "A secure platform for specialized help. Hire Trusted Nurses, Patient Caretakers, Medical Attendants, Drivers, and Maids directly. Find jobs near you with good pay.",
+    "keywords": "jobs india, hire staff, patient caretaker, medical attendant, nurse jobs, driver jobs, maid jobs, caretaker hiring, Confirmed Jobs",
+    "categoryInCityTitle": "Trusted {{category}} for Home in {{city}} | Ujobs India",
+    "categoryInCityDescription": "Find Trusted {{category}} in {{city}}. Direct call, no agency fees. Trusted by families.",
+    "categoryTitle": "Trusted {{category}} in India | Ujobs India",
+    "categoryDescription": "Hire {{category}} across India. Trusted Profiles with direct contact.",
+    "cityTitle": "Trusted Staff in {{city}} | Ujobs India",
+    "cityDescription": "Find Trusted Nurses, Drivers, and Maids in {{city}}. A home staffing app."
+  }
+}

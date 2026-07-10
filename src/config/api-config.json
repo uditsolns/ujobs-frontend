@@ -1,0 +1,30 @@
+{
+  "api": {
+    "baseUrl": "https://ujobsindia.com/aayusha-backend/public/api/v1",
+    "endpoints": {
+      "categories": "/work-types",
+      "locations": "/locations",
+      "jobs": {
+        "list": "/job-all-pagination",
+        "detail": "/jobs",
+        "search": "/search/job/list",
+        "statusCount": "/job-status-count"
+      },
+      "marketing": {
+        "banners": "/banner",
+        "sliders": "/slider"
+      },
+      "candidates": {
+        "search": "/search/list/worker",
+        "detail": "/workers"
+      },
+      "support": "/support"
+    }
+  },
+  "site": {
+    "name": "Ujobs India",
+    "contactEmail": "support@ujobsindia.com",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ujobsindia",
+    "appStoreUrl": "https://apps.apple.com/in/app/ujobs-india/id6741137870"
+  }
+}

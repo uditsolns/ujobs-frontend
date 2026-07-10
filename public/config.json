@@ -1,0 +1,77 @@
+{
+  "api": {
+    "baseURL": "https://ujobsindia.com/aayusha-backend/public/api/v1",
+    "timeout": 30000,
+    "retryAttempts": 3
+  },
+  "app": {
+    "name": "Ujobs India",
+    "tagline": "India's Trusted Job Platform",
+    "defaultLanguage": "en",
+    "supportedLanguages": [
+      "en",
+      "hi",
+      "mr",
+      "ta",
+      "te",
+      "bn",
+      "kn",
+      "gu",
+      "pa",
+      "ne",
+      "ml",
+      "or"
+    ],
+    "itemsPerPage": 20,
+    "imageBaseURL": "https://ujobsindia.com/aayusha-backend/storage/app/public",
+    "storageBaseURL": "https://ujobsindia.com/aayusha-backend/storage/app/public"
+  },
+  "features": {
+    "showCandidates": true,
+    "enableAuth": true,
+    "showRatings": true,
+    "enableChat": false,
+    "showSalary": true,
+    "showDocuments": false,
+    "enableNotifications": false
+  },
+  "seo": {
+    "revalidate": {
+      "homepage": 300,
+      "jobDetail": 600,
+      "candidateDetail": 600,
+      "seoPages": 3600
+    },
+    "enableMultilingualSEO": true,
+    "defaultMetaImage": "/images/og-image.jpg"
+  },
+  "analytics": {
+    "googleAnalyticsId": "G-XXXXXXXXXX",
+    "facebookPixelId": "",
+    "enableTracking": false
+  },
+  "appStore": {
+    "android": "https://play.google.com/store/apps/details?id=com.ujobsindia",
+    "ios": "https://apps.apple.com/in/app/ujobs-india/id6741137870",
+    "appName": "Ujobs India",
+    "enableDeepLinks": true
+  },
+  "contact": {
+    "email": "support@ujobsindia.com",
+    "phone": "+91-XXXXXXXXXX",
+    "whatsapp": "+91-XXXXXXXXXX",
+    "address": "Mumbai, Maharashtra, India"
+  },
+  "social": {
+    "facebook": "https://facebook.com/ujobsindia",
+    "twitter": "https://twitter.com/ujobsindia",
+    "instagram": "https://instagram.com/ujobsindia",
+    "linkedin": "https://linkedin.com/company/ujobsindia",
+    "youtube": ""
+  },
+  "auth": {
+    "enableSocialLogin": false,
+    "sessionTimeout": 86400000,
+    "tokenStorageKey": "ujobs_auth_token"
+  }
+}

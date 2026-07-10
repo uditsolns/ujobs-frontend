@@ -1,0 +1,657 @@
+{
+  "common": {
+    "title": "Ujobs India",
+    "findJobs": "ਵਧੀਆ ਨੌਕਰੀ ਪਾਓ",
+    "hireCandidates": "ਭਰੋਸੇਮੰਦ ਸਟਾਫ ਲਓ",
+    "downloadApp": "ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ",
+    "login": "ਲੌਗਇਨ",
+    "logout": "ਲੌਗਆਊਟ",
+    "dashboard": "ਮੇਰਾ ਡੈਸ਼ਬੋਰਡ",
+    "postJob": "ਸਟਾਫ ਹਾਇਰ ਕਰੋ",
+    "search": "ਲੱਭੋ",
+    "location": "ਸ਼ਹਿਰ / ਇਲਾਕਾ",
+    "allCategories": "ਸਾਰੇ ਕੰਮ",
+    "selectLanguage": "ਭਾਸ਼ਾ ਚੁਣੋ",
+    "verified": "ਭਰੋਸੇਮੰਦ",
+    "salary": "ਤਨਖਾਹ",
+    "applyNow": "ਹੁਣੇ ਅਪਲਾਈ ਕਰੋ",
+    "viewDetails": "ਵੇਰਵੇ ਦੇਖੋ",
+    "home": "ਹੋਮ",
+    "jobs": "ਨੌਕਰੀ",
+    "verifiedProfiles": "ਭਰੋਸੇਮੰਦ ਸਟਾਫ",
+    "oneHundredPercentVerified": "ਸੁਰੱਖਿਅਤ ਸਟਾਫ",
+    "millionUsers": "2 ਲੱਖ+ ਪਰਿਵਾਰ",
+    "trustedPlatform": "ਭਰੋਸੇਮੰਦ ਐਪ",
+    "bestRated": "ਟਾਪ ਰੇਟਿੰਗ",
+    "rating48": "4.5★ ਰੇਟਿੰਗ",
+    "secure": "ਸੁਰੱਖਿਅਤ",
+    "dataProtected": "ਡਾਟਾ ਸੁਰੱਖਿਅਤ"
+  },
+  "navigation": {
+    "home": "ਹੋਮ",
+    "jobs": "ਨੌਕਰੀ ਲੱਭੋ",
+    "candidates": "ਸਟਾਫ ਲਓ",
+    "hire": "ਸਟਾਫ ਹਾਇਰ ਕਰੋ",
+    "login": "ਲੌਗਇਨ",
+    "logout": "ਲੌਗਆਊਟ",
+    "profile": "ਪ੍ਰੋਫਾਈਲ",
+    "downloadApp": "ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ"
+  },
+  "search": {
+    "placeholder": "ਨੌਕਰੀ ਲੱਭੋ - ਡਰਾਈਵਰ, ਰਸੋਈਆ, ਨਰਸ...",
+    "candidatePlaceholder": "ਭਰੋਸੇਮੰਦ ਸਟਾਫ ਲੱਭੋ...",
+    "searchButton": "ਲੱਭੋ",
+    "filters": "ਫਿਲਟਰ",
+    "clearFilters": "ਹਟਾਓ",
+    "results": "{{count}} ਨੌਕਰੀਆਂ ਮਿਲੀਆਂ",
+    "noResults": "ਕੋਈ ਨੌਕਰੀ ਨਹੀਂ ਮਿਲੀ"
+  },
+  "filters": {
+    "category": "ਕੰਮ ਦੀ ਕਿਸਮ",
+    "location": "ਸ਼ਹਿਰ / ਇਲਾਕਾ",
+    "experience": "ਤਜਰਬਾ",
+    "salary": "ਤਨਖਾਹ",
+    "employmentType": "ਸ਼ਿਫਟ ਦੀ ਕਿਸਮ",
+    "allCategories": "ਸਾਰੀਆਂ ਸ਼੍ਰੇਣੀਆਂ",
+    "allLocations": "ਸਾਰੇ ਸ਼ਹਿਰ",
+    "apply": "ਲਾਗੂ ਕਰੋ",
+    "clear": "ਹਟਾਓ"
+  },
+  "cta": {
+    "applyNow": "ਹੁਣੇ ਅਪਲਾਈ ਕਰੋ",
+    "viewDetails": "ਵੇਰਵੇ ਦੇਖੋ",
+    "downloadApp": "ਅਪਲਾਈ ਕਰਨ ਲਈ ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ",
+    "unlockContact": "ਨੰਬਰ ਦੇਖੋ",
+    "contactViaApp": "ਐਪ 'ਤੇ ਗੱਲ ਕਰੋ",
+    "viewProfile": "ਪ੍ਰੋਫਾਈਲ ਦੇਖੋ",
+    "saveJob": "ਸੇਵ ਕਰੋ",
+    "shareJob": "ਸ਼ੇਅਰ ਕਰੋ"
+  },
+  "auth": {
+    "login": {
+      "trustTitle": "Direct & Secure Care Staffing",
+      "trustSubtitle": "Find verified Nurses, Caretakers, and Drivers near you with zero middlemen.",
+      "trustPoints": [
+        "ID & Aadhaar Verified Staff",
+        "Direct Contact - Zero Commission",
+        "Over 10,000+ Families Served"
+      ],
+      "joinedBy": "Join <strong>10K+</strong> families and workers already connected.",
+      "newAccount": "New Account",
+      "welcomeBack": "Welcome Back",
+      "title": "Login to Ujobs India",
+      "subtitlePhone": "Enter your mobile number to receive a secure OTP.",
+      "subtitleOTP": "We have sent a 6-digit verification code to {phone}.",
+      "subtitleRegister": "Let's complete your profile to find verified staff.",
+      "hirerTab": "I want to Hire",
+      "workerTab": "I want a Job",
+      "phoneLabel": "Mobile Number",
+      "phonePlaceholder": "Enter 10-digit mobile number",
+      "getOTP": "Send OTP",
+      "otpLabel": "Verification Code (OTP)",
+      "otpPlaceholder": "Enter 6-digit OTP",
+      "verifyLogin": "Verify & Login",
+      "changePhone": "Change Mobile Number",
+      "termsText": "By logging in, you agree to our {terms} and {privacy}."
+    },
+    "register": {
+      "completeProfile": "Complete Your Profile",
+      "completeProfileSub": "Just a few more details to get your account fully verified and ready.",
+      "title": "Create Free Account",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "name@example.com",
+      "verifiedPhone": "Mobile Number Verified",
+      "submit": "Submit & Create Account"
+    },
+    "errors": {
+      "invalidPhone": "Please enter a valid 10-digit mobile number.",
+      "otpFailed": "Failed to send OTP. Please try again.",
+      "invalidOTP": "Invalid verification code. Please check and try again.",
+      "registrationFailed": "Registration failed. Please try again.",
+      "nameRequired": "Full Name is required."
+    }
+  },
+  "landing": {
+    "categoryJobsInIndia": "ਘਰ ਲਈ ਭਰੋਸੇਮੰਦ {{category}}",
+    "jobsInCityWithState": "{{city}} ਵਿੱਚ ਭਰੋਸੇਮੰਦ ਸਟਾਫ",
+    "verifiedJobsAvailable": "{{count}} ਭਰੋਸੇਮੰਦ {{category}} ਕੰਮ ਲਈ ਤਿਆਰ",
+    "verifiedJobsAvailableInCity": "{{city}} ਵਿੱਚ {{count}} ਭਰੋਸੇਮੰਦ ਸਟਾਫ ਮੌਜੂਦ",
+    "exploreOpportunities": "ਆਪਣੇ ਪਰਿਵਾਰ ਲਈ ਭਰੋਸੇਮੰਦ {{category}} ਲੱਭੋ",
+    "exploreOpportunitiesInCity": "{{city}} ਵਿੱਚ ਭਰੋਸੇਮੰਦ ਸਟਾਫ ਲੱਭੋ",
+    "browseAllJobs": "ਸਾਰਾ ਸਟਾਫ ਦੇਖੋ",
+    "hireCategory": "ਹਾਇਰ ਕਰੋ {{category}}",
+    "latestJobsInCategory": "ਨਵੀਂਆਂ {{category}} ਨੌਕਰੀਆਂ",
+    "latestJobsInCity": "{{city}} ਵਿੱਚ ਨਵੇਂ ਕੰਮ",
+    "noJobsAvailableInCategory": "{{category}} ਦੀ ਲੋੜ ਹੈ?",
+    "noJobsAvailableInCategoryDesc": "ਅਸੀਂ ਰੋਜ਼ ਨਵੇਂ ਭਰੋਸੇਮੰਦ ਸਟਾਫ ਜੋੜ ਰਹੇ ਹਾਂ। ਹੁਣੇ ਰਜਿਸਟਰ ਕਰੋ।",
+    "noJobsAvailableInCity": "{{city}} ਵਿੱਚ ਅੱਜ ਕੋਈ ਸਟਾਫ ਨਹੀਂ ਹੈ",
+    "noJobsAvailableInCityDesc": "ਨੇੜਲੇ ਇਲਾਕਿਆਂ ਵਿੱਚ ਦੇਖੋ ਜਾਂ ਸਟਾਫ ਆਉਣ 'ਤੇ ਸੂਚਨਾ ਪਾਓ।",
+    "registerForJobAlerts": "ਸਟਾਫ ਅਲਰਟ ਪਾਓ",
+    "jobsInTopCities": "ਵੱਡੇ ਸ਼ਹਿਰਾਂ ਵਿੱਚ ਸਟਾਫ",
+    "downloadApp": "ਸੁਰੱਖਿਅਤ ਹਾਇਰਿੰਗ ਐਪ ਲਓ"
+  },
+  "hero": {
+    "trustIndicator": "2 ਲੱਖ+ ਪਰਿਵਾਰਾਂ ਦਾ ਭਰੋਸਾ",
+    "h1_line1": "ਭਰੋਸੇਮੰਦ ਨਰਸ ਅਤੇ ਡਰਾਈਵਰ।",
+    "h1_line2": "ਹਾਇਰ ਕਰੋ ਮਿੰਟਾਂ ਵਿੱਚ।",
+    "description": "ਆਪਣੇ ਪਰਿਵਾਰ ਲਈ ਲੱਭੋ ਬੈਕਗ੍ਰਾਊਂਡ-ਚੈੱਕਡ <span class=\"text-neutral-900 font-black underline decoration-brand-500/30 underline-offset-4\">ਨਰਸ, ਮੇਡ ਅਤੇ ਡਰਾਈਵਰ</span>। ਭਰੋਸੇਮੰਦ ਸਟਾਫ ਲਈ ਸੁਰੱਖਿਅਤ ਅਤੇ ਭਰੋਸੇਮੰਦ ਪਲੇਟਫਾਰਮ।",
+    "verified_label": "ਭਰੋਸੇਮੰਦ ਸਟਾਫ",
+    "verified_sub": "ਸੁਰੱਖਿਅਤ ਸਟਾਫ",
+    "support_label": "परਿਵਾਰ ਦਾ ਸਾਥ",
+    "support_sub": "ਹਮੇਸ਼ਾ ਤੁਹਾਡੀ ਮਦਦ ਲਈ",
+    "direct_label": "ਡਾਇਰੈਕਟ ਕਾਲ",
+    "direct_sub": "ਕੋਈ ਕਮਿਸ਼ਨ ਨਹੀਂ",
+    "mobile_app_badge": "ਸੁਰੱਖਿਅਤ ਹਾਇਰਿੰਗ ਐਪ",
+    "mobile_app_title": "ਭਰੋਸੇਮੰਦ ਸਟਾਫ ਹਾਇਰ ਕਰੋ <span class=\"text-brand-600 italic\">ਆਪਣੇ ਫੋਨ ਤੋਂ।</span>",
+    "google_play_sub": "Google Play",
+    "google_play_main": "ਹੁਣੇ ਲਓ",
+    "app_store_sub": "App Store",
+    "app_store_main": "ਡਾਊਨਲੋਡ",
+    "direct_hire_title": "ਭਰੋਸੇਮੰਦ ਹੋਮ ਸਟਾਫ ਸਿੱਧਾ ਹਾਇਰ ਕਰੋ",
+    "top_choice": "ਭਰੋਸੇਮੰਦ",
+    "available": "ਕੰਮ ਲਈ ਤਿਆਰ",
+    "placeholder_city": "ਆਪਣਾ ਸ਼ਹਿਰ ਭਰੋ",
+    "placeholder_search": "ਨਰਸ, ਕੇਅਰਟੇਕਰ, ਡਰਾਈਵਰ, ਮੇਡ ਲੱਭੋ...",
+    "find_now": "ਹੁਣੇ ਸਟਾਫ ਲੱਭੋ",
+    "services_label": "ਕੰਮ ਦੇ ਪ੍ਰਕਾਰ:",
+    "cities_label": "ਸ਼ਹਿਰ:"
+  },
+  "home": {
+    "stats": {
+      "verifiedOpenings": "ਨੌਕਰੀ ਦੀ ਵੈਕੈਂਸੀ",
+      "activeProfessionals": "ਭਰੋਸੇਮੰਦ ਸਟਾਫ",
+      "citiesCovered": "ਸ਼ਹਿਰ ਕਵਰ",
+      "customerSupport": "24/7 ਮਦਦ"
+    },
+    "whyUjobs": {
+      "badge": "ਸੁਰੱਖਿਅਤ ਅਤੇ ਆਸਾਨ",
+      "title": "ਘਰ ਦੀ ਦੇਖਭਾਲ ਲਈ <span class=\"text-brand-600\">ਭਰੋਸੇਮੰਦ ਸਟਾਫ</span>",
+      "italic": "\"ਕਿਉਂਕਿ ਇੱਕ ਕੇਅਰਟੇਕਰ ਜਾਂ ਡਰਾਈਵਰ ਲੱਭਣਾ ਜੋਖਮ ਭਰਿਆ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ।\"",
+      "description": "ਅਸੀਂ <strong>ਭਰੋਸੇਮੰਦ ਪ੍ਰੋਫੈਸ਼ਨਲ</strong> ਨੂੰ ਉਹਨਾਂ ਪਰਿਵਾਰਾਂ ਨਾਲ ਜੋੜਦੇ ਹਾਂ ਜਿਨ੍ਹਾਂ ਨੂੰ <strong>ਭਰੋਸੇਮੰਦ ਮਦਦ</strong> ਦੀ ਲੋੜ ਹੈ। ਬਜ਼ੁਰਗਾਂ ਦੀ ਦੇਖਭਾਲ ਤੋਂ ਲੈ ਕੇ ਸੁਰੱਖਿਅਤ ਡਰਾਈਵਿੰਗ ਤੱਕ, ਅਸੀਂ ਤੁਹਾਡੇ ਨਾਲ ਹਾਂ।",
+      "features": [
+        {
+          "title": "ਪਛਾਣ ਭਰੋਸੇਮੰਦ",
+          "desc": "ਤੁਹਾਡੇ ਪਰਿਵਾਰ ਦੀ ਸੁਰੱਖਿਆ ਲਈ ਹਰ ਸਟਾਫ ਦਾ <strong>ਆਧਾਰ ਅਤੇ ਪ੍ਰੋਫਾਈਲ ਜਾਂਚ</strong> ਕੀਤਾ ਜਾਂਦਾ ਹੈ।"
+        },
+        {
+          "title": "ਸਿੱਧਾ ਹਾਇਰ ਕਰੋ",
+          "desc": "ਸਟਾਫ ਨਾਲ <strong>ਸਿੱਧੀ ਗੱਲ</strong> ਕਰੋ। ਕੋਈ ਏਜੰਸੀ ਨਹੀਂ, ਕੋਈ ਵਿਚੋਲਾ ਨਹੀਂ, ਅਤੇ ਕੋਈ ਛੁਪਿਆ ਖਰਚ ਨਹੀਂ।"
+        },
+        {
+          "title": "ਤੇਜ਼ ਅਤੇ ਭਰੋਸੇਮੰਦ",
+          "desc": "ਅੱਜ ਹੀ <strong>ਨਰਸ</strong>, <strong>ਕੇਅਰਟੇਕਰ</strong>, ਜਾਂ <strong>ਡਰਾਈਵਰ</strong> ਪਾਓ। ਹਰ ਸਮੇਂ ਲਈ ਫਲੈਕਸੀਬਲ ਆਪਸ਼ਨ।"
+        }
+      ]
+    },
+    "hirerSection": {
+      "title": "ਭਰੋਸੇਮੰਦ ਸਟਾਫ ਲਓ",
+      "items": [
+        "ਭਰੋਸੇਮੰਦ ਨਰਸ ਅਤੇ ਕੇਅਰਟੇਕਰ",
+        "ਬੈਕਗ੍ਰਾਊਂਡ-ਚੈੱਕਡ ਡਰਾਈਵਰ ਅਤੇ ਮੇਡ",
+        "ਸਟਾਫ ਨਾਲ ਸਿੱਧੀ ਗੱਲ ਕਰੋ (ਕੋਈ ਏਜੰਸੀ ਨਹੀਂ)",
+        "12 ਘੰਟੇ, 24 ਘੰਟੇ ਜਾਂ ਫੁੱਲ-ਟਾਈਮ ਲਈ",
+        "ਭਰੋਸੇਮੰਦ ਡਾਕੂਮੈਂਟਸ ਐਪ 'ਤੇ ਉਪਲਬਧ"
+      ],
+      "cta": "ਹੁਣੇ ਸਟਾਫ ਲੱਭੋ"
+    },
+    "workerSection": {
+      "title": "ਸੁਰੱਖਿਅਤ ਨੌਕਰੀ ਪਾਓ",
+      "items": [
+        "ਭਰੋਸੇਮੰਦ ਪਰਿਵਾਰਾਂ ਤੋਂ ਅਸਲੀ ਕੰਮ",
+        "ਆਪਣੇ ਘਰ ਦੇ ਨੇੜੇ ਕੰਮ ਕਰੋ ਅਤੇ ਸਮਾਂ ਬਚਾਓ",
+        "ਪੂਰੀ ਪਗਾਰ ਹੱਥ ਵਿੱਚ ਪਾਓ (ਕੋਈ ਕਮਿਸ਼ਨ ਨਹੀਂ)",
+        "ਭਰੋਸੇਮੰਦ ਪ੍ਰੋਫਾਈਲ ਨਾਲ ਜਲਦੀ ਕੰਮ ਮਿਲਦਾ ਹੈ",
+        "ਸੁਰੱਖਿਅਤ ਰਹਿਣ ਲਈ ਸਾਡੀ ਟੀਮ ਦੀ ਮਦਦ"
+      ],
+      "cta": "ਫ੍ਰੀ ਪ੍ਰੋਫਾਈਲ ਬਣਾਓ"
+    },
+    "howItWorks": {
+      "title": "ਹਾਇਰ ਕਰਨਾ ਜਾਂ ਕੰਮ ਪਾਉਣਾ ਕਿਵੇਂ ਆਸਾਨ ਹੈ",
+      "steps": [
+        {
+          "title": "ਜਲਦੀ ਰਜਿਸਟਰ ਕਰੋ",
+          "desc": "10 ਸਕਿੰਟਾਂ ਵਿੱਚ ਆਪਣੇ ਮੋਬਾਈਲ ਨੰਬਰ ਨਾਲ ਪ੍ਰੋਫਾਈਲ ਬਣਾਓ।"
+        },
+        {
+          "title": "ਸਰਚ ਕਰੋ",
+          "desc": "ਆਪਣੇ ਇਲਾਕੇ ਵਿੱਚ ਭਰੋਸੇਮੰਦ ਸਟਾਫ ਜਾਂ ਨੌਕਰੀ ਲੱਭੋ।"
+        },
+        {
+          "title": "ਡਾਇਰੈਕਟ ਕਾਲ ਕਰੋ",
+          "desc": "ਤੁਰੰਤ ਜੁੜੋ, ਸਿੱਧੀ ਗੱਲ ਕਰੋ ਅਤੇ ਅੱਜ ਹੀ ਕੰਮ ਸ਼ੁਰੂ ਕਰੋ।"
+        }
+      ]
+    },
+    "specializations": {
+      "badge": "ਭਰੋਸੇਮੰਦ ਹੋਮ ਸਟਾਫ",
+      "title": "ਤੁਹਾਡੇ <span class=\"text-brand-600\">ਪਰਿਵਾਰ</span> ਲਈ ਭਰੋਸੇਮੰਦ ਮਦਦ",
+      "description": "ਘਰ ਲਈ ਖਾਸ ਦੇਖਭਾਲ ਅਤੇ ਮਦਦ ਪਾਓ, ਸਾਰੇ ਬੈਕਗ੍ਰਾਊਂਡ-ਚੈੱਕਡ।",
+      "mostSearched": "ਟਾਪ <span class=\"text-brand-600\">ਹੋਮ ਕੈਟੇਗਰੀ</span>",
+      "browseAll": "ਸਾਰਾ ਸਟਾਫ ਦੇਖੋ"
+    },
+    "featuredProfessionals": {
+      "badge": "ਅੱਛੇ",
+      "title": "ਟਾਪ ਰੇਟਡ <span class=\"text-brand-600\">ਸਟਾਫ</span>",
+      "description": "ਆਪਣੇ ਪਰਿਵਾਰ ਦੀ ਮਦਦ ਲਈ ਬੈਕਗ੍ਰਾਊਂਡ-ਭਰੋਸੇਮੰਦ ਸਟਾਫ ਦੇਖੋ।",
+      "cta": "ਸਾਰਾ ਸਟਾਫ ਦੇਖੋ"
+    },
+    "testimonials": {
+      "badge": "ਸਫਲਤਾ ਦੀਆਂ ਕਹਾਣੀਆਂ",
+      "title": "ਲੱਖਾਂ <span class=\"text-brand-600\">ਭਾਰਤੀਆਂ</span> ਦਾ ਭਰੋਸਾ",
+      "description": "ਦੇਖੋ Ujobs India ਕਿਵੇਂ ਲੋਕਾਂ ਦੇ ਕੰਮ ਲੱਭਣ ਅਤੇ ਸਟਾਫ ਹਾਇਰ ਕਰਨ ਦਾ ਤਰੀਕਾ ਬਦਲ ਰਿਹਾ ਹੈ।",
+      "items": [
+        {
+          "name": "ਰਾਜੇਸ਼ ਕੁਮਾਰ",
+          "role": "ਡਿਲੀਵਰੀ ਪਾਰਟਨਰ",
+          "text": "ਮੈਂ 2 ਮਹੀਨਿਆਂ ਤੋਂ ਨੌਕਰੀ ਲੱਭ ਰਿਹਾ ਸੀ। Ujobs India ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਦੇ 3 ਦਿਨਾਂ ਦੇ ਅੰਦਰ ਮੈਨੂੰ ਲੁਧਿਆਣਾ ਵਿੱਚ ਕੰਮ ਮਿਲ ਗਿਆ।",
+          "location": "ਲੁਧਿਆਣਾ, ਪੰਜਾਬ",
+          "verified": true
+        },
+        {
+          "name": "ਪ੍ਰਿਆ ਸ਼ਰਮਾ",
+          "role": "ਭਰਤੀ ਅਧਿਕਾਰੀ",
+          "company": "ਲੌਜਿਸਟਿਕਸ ਪ੍ਰੋ",
+          "text": "ਪਹਿਲਾਂ ਸਟਾਫ ਲੈਣ ਲਈ ਹਫ਼ਤੇ ਲੱਗ ਜਾਂਦੇ ਸਨ। Ujobs ਰਾਹੀਂ ਕੁਝ ਹੀ ਘੰਟਿਆਂ ਵਿੱਚ ਭਰੋਸੇਮੰਦ ਲੋਕ ਮਿਲ ਰਹੇ ਹਨ।",
+          "location": "ਅੰਮ੍ਰਿਤਸਰ, ਪੰਜਾਬ",
+          "verified": true
+        }
+      ]
+    },
+    "faq": {
+      "title": "ਅਕਸਰ ਪੁੱਛੇ ਜਾਣ ਵਾਲੇ ਸਵਾਲ",
+      "items": [
+        {
+          "category": "ਅਰਜ਼ੀ ਪ੍ਰਕਿਰਿਆ",
+          "question": "ਮੈਂ Ujobs India 'ਤੇ ਨੌਕਰੀਆਂ ਲਈ ਅਪਲਾਈ ਕਿਵੇਂ ਕਰਾਂ?",
+          "answer": "ਅਪਲਾਈ ਕਰਨਾ ਆਸਾਨ ਹੈ! 1. ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ, 2. ਪ੍ਰੋਫਾਈਲ ਪੂਰੀ ਕਰੋ, 3. ਆਪਣੇ ਸ਼ਹਿਰ ਵਿੱਚ ਨੌਕਰੀਆਂ ਲੱਭੋ, 4. <strong>\"Quick Apply\"</strong> 'ਤੇ ਕਲਿੱਕ ਕਰੋ।"
+        },
+        {
+          "category": "ਭੁਗਤਾਨ",
+          "question": "ਕੀ Ujobs ਨੌਕਰੀ ਲੱਭਣ ਵਾਲਿਆਂ ਲਈ ਮੁਫਤ ਹੈ?",
+          "answer": "<strong>ਹਾਂ, ਮੁਫਤ।</strong> ਅਸੀਂ ਅਰਜ਼ੀ ਜਾਂ ਇੰਟਰਵਿਊ ਲਈ ਕੋਈ ਫੀਸ ਨਹੀਂ ਲੈਂਦੇ।"
+        }
+      ]
+    },
+    "finalCta": {
+      "badge": "ਸੁਰੱਖਿਅਤ ਅਤੇ ਭਰੋਸੇਮੰਦ ਪਲੇਟਫਾਰਮ",
+      "title": "ਅੱਜ ਹੀ ਆਪਣਾ ਭਰੋਸੇਮੰਦ <span class=\"text-brand-600 italic\">ਹੋਮ ਸਟਾਫ</span> ਲੱਭੋ।",
+      "joinCount": "ਸ਼ਾਮਲ ਹੋਵੋ <span class=\"text-brand-600\">2 ਲੱਖ+</span> ਪਰਿਵਾਰ",
+      "hireIn": "ਹਾਇਰ ਕਰੋ <span class=\"text-brand-600\">ਮਿੰਟਾਂ ਵਿੱਚ</span>",
+      "middlemen": "<strong>ਕੋਈ ਏਜੰਸੀ ਨਹੀਂ। ਕੋਈ ਕਮਿਸ਼ਨ ਨਹੀਂ। ਭਰੋਸੇਮੰਦ।</strong>",
+      "hireStaff": "ਹੁਣੇ ਸਟਾਫ ਲਓ",
+      "findJobs": "ਸੁਰੱਖਿਅਤ ਨੌਕਰੀ ਪਾਓ",
+      "securityBadge": "ਭਰੋਸੇਮੰਦ ਅਤੇ ਸੁਰੱਖਿਅਤ",
+      "securityNotice": "⚠️ ਇਸ ਪਲੇਟਫਾਰਮ 'ਤੇ ਸਾਰੇ ਸਟਾਫ ਦੀ ਬੈਕਗ੍ਰਾਊਂਡ ਜਾਂਚ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।"
+    }
+  },
+  "appBanner": {
+    "mobileApp": "ਸੁਰੱਖਿਅਤ ਹਾਇਰਿੰਗ ਐਪ",
+    "title": "ਭਰੋਸੇਮੰਦ ਮਦਦ ਹਾਇਰ ਕਰੋ <span class=\"bg-gradient-to-r from-brand-600 to-blue-600 bg-clip-text text-transparent\">2 ਮਿੰਟ ਵਿੱਚ।</span>",
+    "description": "ਘਰ ਦੇ ਸਟਾਫ ਲਈ ਭਾਰਤ ਦਾ ਭਰੋਸੇਮੰਦ ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ। ਆਪਣੇ ਨੇੜੇ ਨਰਸ, ਡਰਾਈਵਰ ਅਤੇ ਮੇਡ ਨਾਲ ਸਿੱਧੇ ਜੁੜੋ।",
+    "features": {
+      "directChat": "ਸਟਾਫ ਨੂੰ ਸਿੱਧਾ ਕਾਲ ਕਰੋ",
+      "documentAccess": "ਵੈਰੀਫੀਕੇਸ਼ਨ ਪੇਪਰ ਦੇਖੋ",
+      "jobAlerts": "ਤੁਰੰਤ ਸਟਾਫ ਮੈਚ",
+      "securePayments": "ਸੁਰੱਖਿਅਤ ਅਤੇ ਭਰੋਸੇਮੰਦ"
+    },
+    "downloadOn": "ਡਾਊਨਲੋਡ",
+    "getItOn": "ਹੁਣੇ ਲਓ",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "jobs": {
+    "salary": "ਤਨਖਾਹ",
+    "shift": "ਸ਼ਿਫਟ",
+    "gender": "ਸਤਰੀ/ਪੁਰਸ਼",
+    "experience": "ਤਜਰਬਾ",
+    "requirements": "ਸਟਾਫ ਦਾ ਹੁਨਰ",
+    "recently": "ਹੁਣੇ",
+    "applyNow": "ਹੁਣੇ ਅਪਲਾਈ ਕਰੋ",
+    "available": "ਉਪਲਬਧ",
+    "opening": "ਵੈਕੈਂਸੀ",
+    "negotiable": "ਗੱਲਬਾਤ ਸੰਭਵ",
+    "notSpecified": "ਦੱਸਿਆ ਨਹੀਂ ਗਿਆ",
+    "fullTime": "ਫੁੱਲ ਟਾਈਮ",
+    "weekly": "ਹਫ਼ਤੇ ਦਾ",
+    "daily": "ਰੋਜ਼ਾਨਾ",
+    "monthly": "ਮਹੀਨੇ ਦਾ",
+    "anyGender": "ਕੋਈ ਵੀ",
+    "shiftNA": "ਸ਼ਿਫਟ ਉਪਲਬਧ ਨਹੀਂ",
+    "jobRequirements": "ਕੰਮ ਦੀਆਂ ਲੋੜਾਂ"
+  },
+  "candidate": {
+    "name": "ਪੂਰਾ ਨਾਮ",
+    "age": "ਉਮਰ",
+    "gender": "ਸਤਰੀ/ਪੁਰਸ਼",
+    "education": "ਸਿੱਖਿਆ",
+    "experience": "ਤਜਰਬਾ",
+    "expectedSalary": "ਉਮੀਦ ਕੀਤੀ ਤਨਖਾਹ",
+    "skills": "ਹੁਨਰ",
+    "languages": "ਜਾਣੀਆਂ ਭਾਸ਼ਾਵਾਂ",
+    "location": "ਪਸੰਦੀਦਾ ਇਲਾਕਾ",
+    "verified": "ਭਰੋਸੇਮੰਦ",
+    "rating": "ਰੇਟਿੰਗ",
+    "profileCompletion": "ਪ੍ਰੋਫਾਈਲ ਪੂਰੀ",
+    "unlockToView": "ਨੰਬਰ ਦੇਖਣ ਲਈ ਅਨਲੌਕ ਕਰੋ",
+    "downloadAppToUnlock": "ਅਨਲੌਕ ਕਰਨ ਲਈ ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ"
+  },
+  "footer": {
+    "backgroundVerified": "ਭਰੋਸੇਮੰਦ ਸਟਾਫ ਸਟਾਫ",
+    "ratedApp": "4.5★ ਟਾਪ ਐਪ",
+    "activeCities": "{count}+ ਸ਼ਹਿਰਾਂ ਵਿੱਚ",
+    "popularCategories": "ਟਾਪ ਕੰਮ",
+    "specializations": "ਮੁਹਾਰਤ",
+    "corporate": "ਕੰਪਨੀ",
+    "brandNarrative": "ਸੁਰੱਖਿਅਤ ਅਤੇ ਭਰੋਸੇਮੰਦ ਪਲੇਟਫਾਰਮ.",
+    "aboutUjobs": "ਸਾਡੇ ਬਾਰੇ",
+    "contactUs": "ਮਦਦ",
+    "blog": "ਬਲੌਗ",
+    "careers": "ਕਰੀਅਰ",
+    "officialApp": "ਸੁਰੱਖਿਅਤ ਹਾਇਰਿੰਗ ਐਪ",
+    "appDesc": "ਸਟਾਫ ਨਾਲ ਸਿੱਧੇ ਜੁੜੋ.",
+    "appBenefits": {
+      "directChat": "ਸਿੱਧੀ ਕਾਲ",
+      "smartAlerts": "ਅਲਰਟ",
+      "safeHiring": "ਭਰੋਸੇਮੰਦ"
+    },
+    "terms": "ਨਿਯਮ",
+    "privacy": "ਪ੍ਰਾਈਵੇਸੀ",
+    "regulatoryCompliance": "Regulatory Compliance",
+    "security": "Security & Vulnerability",
+    "copyright": "© {year} Ujobs India. All Rights Reserved.",
+    "redefining": "Redefining Home Staffing"
+  },
+  "about": {
+    "seo": {
+      "title": "Ujobs India ਬਾਰੇ - ਸੁਰੱਖਿਅਤ ਹਾਇਰਿੰਗ",
+      "description": "Ujobs India ਬਾਰੇ ਜਾਣੋ - ਭਾਰਤ ਦਾ ਸੁਰੱਖਿਅਤ ਹਾਇਰਿੰਗ ਪਲੇਟਫਾਰਮ।",
+      "keywords": "Ujobs ਬਾਰੇ, ਭਰੋਸੇਮੰਦ ਸਟਾਫ"
+    },
+    "hero": {
+      "title": "ਸਟਾਫ ਹਾਇਰ ਕਰਨ ਦਾ ਸੁਰੱਖਿਅਤ ਤਰੀਕਾ",
+      "description": "ਹਰ ਭਾਰਤੀ ਘਰ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਅਤੇ ਭਰੋਸੇਮੰਦ ਸਟਾਫ ਪਹੁੰਚਾਉਣਾ ਸਾਡਾ ਮਕਸਦ ਹੈ।"
+    },
+    "mission": {
+      "title": "ਸਾਡਾ ਮਿਸ਼ਨ",
+      "desc": "10 ਕਰੋੜ ਭਾਰਤੀ ਪਰਿਵਾਰਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਘਰੇਲੂ ਮਦਦ ਪ੍ਰਦਾਨ ਕਰਨਾ।"
+    },
+    "vision": {
+      "title": "ਸਾਡਾ ਵਿਜ਼ਨ",
+      "desc": "ਦੇਖਭਾਲ ਅਤੇ ਡਰਾਈਵਿੰਗ ਦੀਆਂ ਲੋੜਾਂ ਲਈ ਪਰਿਵਾਰਾਂ ਦੀ ਪਹਿਲੀ ਪਸੰਦ ਬਣਨਾ।"
+    },
+    "impact": {
+      "title": "ਸਾਡਾ ਪ੍ਰਭਾਵ",
+      "subtitle": "ਸੁਰੱਖਿਆ ਪ੍ਰਤੀ ਸਾਡੀ ਵਚਨਬੱਧਤਾ",
+      "jobSeekers": "ਸਟਾਫ",
+      "activeJobs": "ਨੌਕਰੀਆਂ",
+      "employers": "ਖੁਸ਼ ਪਰਿਵਾਰ",
+      "successfulHires": "ਸਫਲ ਨਿਯੁਕਤੀਆਂ"
+    },
+    "values": {
+      "title": "ਸਾਡੀਆਂ ਕਦਰਾਂ-ਕੀਮਤਾਂ",
+      "subtitle": "ਜੋ ਸਾਨੂੰ ਪ੍ਰੇਰਿਤ ਕਰਦੀਆਂ ਹਨ",
+      "list": [
+        {
+          "title": "ਸੁਰੱਖਿਆ",
+          "desc": "ਪਰਿਵਾਰ ਦੀ ਸੁਰੱਖਿਆ ਨਾਲ ਅਸੀਂ ਕੋਈ ਸਮਝੌਤਾ ਨਹੀਂ ਕਰਦੇ।"
+        },
+        {
+          "title": "ਸਿੱਧਾ ਸੰਪਰਕ",
+          "desc": "ਸਿੱਧੀ ਗੱਲ, ਕੋਈ ਕਮਿਸ਼ਨ ਨਹੀਂ।"
+        },
+        {
+          "title": "ਵੈਰੀਫਿਕੇਸ਼ਨ",
+          "desc": "ਹਰ ਪ੍ਰੋਫਾਈਲ ਵੈਰੀਫਾਈ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।"
+        },
+        {
+          "title": "ਸਨਮਾਨ",
+          "desc": "ਅਸੀਂ ਆਪਣੇ ਸਟਾਫ ਦੀ ਮਿਹਨਤ ਦਾ ਸਨਮਾਨ ਕਰਦੇ ਹਾਂ।"
+        }
+      ]
+    },
+    "journey": {
+      "title": "ਸਾਡਾ ਸਫਰ",
+      "subtitle": "ਪਹਿਲੇ ਦਿਨ ਤੋਂ ਭਰੋਸਾ ਬਣਾਉਣਾ",
+      "milestones": [
+        {
+          "year": "2020",
+          "title": "ਸ਼ੁਰੂਆਤ",
+          "desc": "ਸੁਰੱਖਿਅਤ ਹਾਇਰਿੰਗ ਦੀ ਸੋਚ ਨਾਲ ਸ਼ੁਰੂ ਕੀਤਾ।"
+        },
+        {
+          "year": "2021",
+          "title": "10,000 ਪਰਿਵਾਰ",
+          "desc": "10,000 ਪਰਿਵਾਰਾਂ ਦੀ ਮਦਦ ਕੀਤੀ।"
+        },
+        {
+          "year": "2023",
+          "title": "ਐਪ ਲਾਂਚ",
+          "desc": "Ujobs ਸੁਰੱਖਿਅਤ ਐਪ ਲਾਂਚ ਕੀਤੀ।"
+        },
+        {
+          "year": "2026",
+          "title": "ਪੂਰੇ ਭਾਰਤ ਵਿੱਚ",
+          "desc": "ਅੱਜ ਅਸੀਂ 500+ ਸ਼ਹਿਰਾਂ ਵਿੱਚ ਸੇਵਾ ਦੇ ਰਹੇ ਹਾਂ।"
+        }
+      ]
+    },
+    "cta": {
+      "title": "ਸੁਰੱਖਿਅਤ ਹਾਇਰਿੰਗ ਲਈ ਤਿਆਰ ਹੋ?",
+      "description": "Ujobs 'ਤੇ ਭਰੋਸਾ ਕਰਨ ਵਾਲੇ 2 ਲੱਖ+ ਪਰਿਵਾਰਾਂ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਵੋ।",
+      "button": "ਐਪ ਹੁਣੇ ਡਾਊਨਲੋਡ ਕਰੋ"
+    }
+  },
+  "contact": {
+    "seo": {
+      "title": "Ujobs India ਨਾਲ ਸੰਪਰਕ ਕਰੋ - 24/7 ਮਦਦ",
+      "description": "ਨਰਸ ਜਾਂ ਡਰਾਈਵਰ ਹਾਇਰ ਕਰਨ ਵਿੱਚ ਮਦਦ ਚਾਹੀਦੀ ਹੈ? ਸੰਪਰਕ ਕਰੋ।",
+      "keywords": "Ujobs ਸੰਪਰਕ, ਕਸਟਮਰ ਸਪੋਰਟ"
+    },
+    "hero": {
+      "title": "ਅਸੀਂ ਤੁਹਾਡੀ ਮਦਦ ਲਈ ਤਿਆਰ ਹਾਂ",
+      "description": "ਕੋਈ ਵੀ ਸਵਾਲ ਹੋਵੇ ਤਾਂ ਸਾਨੂੰ ਕਾਲ ਕਰੋ।"
+    },
+    "info": {
+      "title": "ਸੰਪਰਕ ਜਾਣਕਾਰੀ",
+      "email": "ਈਮੇਲ ਮਦਦ",
+      "call": "ਸਾਨੂੰ ਕਾਲ ਕਰੋ",
+      "visit": "ਦਫਤਰ ਆਓ",
+      "whatsapp": "ਵਟਸਐਪ ਚੈਟ",
+      "address": "ਮੁੰਬਈ, ਭਾਰਤ"
+    },
+    "form": {
+      "title": "ਸਾਨੂੰ ਸੁਨੇਹਾ ਭੇਜੋ",
+      "description": "ਆਪਣੀ ਲੋੜ ਜਾਂ ਫੀਡਬੈਕ ਇੱਥੇ ਦੱਸੋ।"
+    }
+  },
+  "download": {
+    "hero": {
+      "title": "ਸੁਰੱਖਿਅਤ ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ",
+      "description": "ਭਰੋਸੇਮੰਦ ਸਟਾਫ ਹਾਇਰ ਕਰਨ ਦਾ ਤੇਜ਼ ਤਰੀਕਾ।",
+      "downloads": "ਡਾਊਨਲੋਡ",
+      "activeJobs": "ਨੌਕਰੀਆਂ",
+      "userRating": "ਰੇਟਿੰਗ"
+    },
+    "seo": {
+      "title": "Ujobs India ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ - ਭਾਰਤ ਦੀ ਸੁਰੱਖਿਅਤ ਐਪ",
+      "description": "ਆਪਣੇ ਫੋਨ ਤੋਂ ਸਟਾਫ ਹਾਇਰ ਕਰਨ ਲਈ Ujobs ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ।",
+      "keywords": "Ujobs ਡਾਊਨਲੋਡ, ਹਾਇਰਿੰਗ ਐਪ"
+    },
+    "features": {
+      "title": "Ujobs ਐਪ ਕਿਉਂ?",
+      "subtitle": "ਸੁਰੱਖਿਅਤ ਹਾਇਰਿੰਗ ਦੀ ਹਰ ਚੀਜ਼ ਤੁਹਾਡੇ ਹੱਥ ਵਿੱਚ।",
+      "list": [
+        {
+          "title": "ਤੇਜ਼ ਹਾਇਰਿੰਗ",
+          "desc": "ਮਿੰਟਾਂ ਵਿੱਚ ਸਟਾਫ ਚੁਣੋ।"
+        },
+        {
+          "title": "ਸਿੱਧੀ ਚੈਟ",
+          "desc": "ਸਿੱਧੀ ਗੱਲ ਕਰੋ।"
+        },
+        {
+          "title": "ਭਰੋਸੇਮੰਦ ਪੇਪਰ",
+          "desc": "ਦਸਤਾਵੇਜ਼ ਦੇਖੋ।"
+        },
+        {
+          "title": "ਸੁਰੱਖਿਆ",
+          "desc": "ਸੁਰੱਖਿਅਤ ਪਲੇਟਫਾਰਮ।"
+        }
+      ]
+    },
+    "howTo": {
+      "title": "ਸ਼ੁਰੂਆਤ ਕਿਵੇਂ ਕਰੀਏ?",
+      "steps": [
+        {
+          "title": "ਐਪ ਡਾਊਨਲੋਡ",
+          "desc": "ਪਲੇ ਸਟੋਰ ਤੋਂ ਲਓ।"
+        },
+        {
+          "title": "ਰਜਿਸਟਰੇਸ਼ਨ",
+          "desc": "10 ਸਕਿੰਟ ਵਿੱਚ ਪ੍ਰੋਫਾਈਲ ਬਣਾਓ।"
+        },
+        {
+          "title": "ਹਾਇਰਿੰਗ",
+          "desc": "ਲੱਭੋ ਅਤੇ ਹਾਇਰ ਕਰੋ।"
+        }
+      ]
+    },
+    "cta": {
+      "description": "2 ਲੱਖ+ ਪਰਿਵਾਰਾਂ ਦਾ ਹਿੱਸਾ ਬਣੋ।",
+      "android": "ਐਂਡਰੌਇਡ ਲਈ",
+      "ios": "iOS ਲਈ"
+    }
+  },
+  "candidatesList": {
+    "badge": "ਭਰੋਸੇਮੰਦ ਸਟਾਫ",
+    "title": "ਭਰੋਸੇਮੰਦ <span class=\"text-brand-600\">ਸਟਾਫ</span> ਸਿੱਧਾ ਲਓ",
+    "description": "ਬੈਕਗ੍ਰਾਊਂਡ ਭਰੋਸੇਮੰਦ ਸਟਾਫ ਨਾਲ ਜੁੜੋ। ਕੋਈ ਏਜੰਸੀ ਨਹੀਂ, ਕੋਈ ਕਮਿਸ਼ਨ ਨਹੀਂ।",
+    "activeCandidates": "ਸਟਾਫ",
+    "verifiedProfiles": "ਭਰੋਸੇਮੰਦ",
+    "searchFilters": "ਫਿਲਟਰ",
+    "resetFilters": "ਹਟਾਓ",
+    "workCategory": "ਕੰਮ ਦੀ ਕਿਸਮ",
+    "allSpecializations": "ਸਾਰੀਆਂ ਕਿਸਮਾਂ",
+    "locationPlaceholder": "ਸ਼ਹਿਰ ਜਾਂ ਇਲਾਕਾ ਲੱਭੋ",
+    "genderPref": "ਲਿੰਗ",
+    "genderOptions": {
+      "all": "ਸਾਰੇ",
+      "male": "ਪੁਰਸ਼",
+      "female": "ਸਤਰੀ"
+    },
+    "experienceLevel": "ਤਜਰਬਾ",
+    "allLevels": "ਸਾਰੇ ਲੈਵਲ",
+    "expOptions": [
+      "0-1 ਸਾਲ",
+      "2-5 ਸਾਲ",
+      "5+ ਸਾਲ"
+    ],
+    "verifiedOnly": "ਸਿਰਫ ਭਰੋਸੇਮੰਦ",
+    "analyzingProfiles": "ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...",
+    "bestMatches": "{count} ਸਭ ਤੋਂ ਵਧੀਆ ਮੈਚ",
+    "verifiedIndia": "ਪੂਰੇ ਭਾਰਤ ਵਿੱਚ ਭਰੋਸੇਮੰਦ ਸਟਾਫ",
+    "sort": "ਲੜੀਬੱਧ ਕਰੋ",
+    "noProfessionalsFound": "ਕੋਈ ਨਹੀਂ ਮਿਲਿਆ",
+    "noProfessionalsDesc": "ਕਿਸੇ ਹੋਰ ਇਲਾਕੇ ਵਿੱਚ ਦੇਖੋ।"
+  },
+  "terms": {
+    "seo": {
+      "title": "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ | Ujobs India",
+      "description": "Ujobs India ਸਿੱਧੇ ਸੰਪਰਕ ਪਲੇਟਫਾਰਮ ਦੀ ਵਰਤੋਂ ਲਈ ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ, ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼ ਅਤੇ ਨਿਯਮ ਪੜ੍ਹੋ।",
+      "keywords": "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ, ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ, Ujobs ਕਾਨੂੰਨੀ, ਉਪਭੋਗਤਾ ਸਮਝੌਤਾ, ਸਿੱਧੀ ਭਰਤੀ ਦੇ ਨਿਯਮ"
+    },
+    "hero": {
+      "title": "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ",
+      "lastUpdated": "ਆਖਰੀ ਅੱਪਡੇਟ: ਜੂਨ 2026"
+    },
+    "sections": [
+      {
+        "title": "1. ਸ਼ਰਤਾਂ ਦੀ ਪ੍ਰਵਾਨਗੀ",
+        "content": "Ujobs India ਮੋਬਾਈਲ ਐਪਲੀਕੇਸ਼ਨ ਜਾਂ ਵੈੱਬਸਾਈਟ ਨੂੰ ਡਾਊਨਲੋਡ, ਇੰਸਟਾਲ, ਰਜਿਸਟਰ ਜਾਂ ਵਰਤ ਕੇ, ਤੁਸੀਂ ਇਹਨਾਂ ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ, ਸਾਡੀ ਪ੍ਰਾਈਵੇਸੀ ਪਾਲਿਸੀ ਅਤੇ ਭਾਰਤ ਵਿੱਚ ਲਾਗੂ ਸਾਰੇ ਕਾਨੂੰਨਾਂ ਅਤੇ ਨਿਯਮਾਂ ਦੀ ਕਾਨੂੰਨੀ ਤੌਰ 'ਤੇ ਪਾਲਣਾ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ। ਸਾਡੀਆਂ ਸੇਵਾਵਾਂ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਤੁਹਾਡੀ ਉਮਰ ਘੱਟੋ-ਘੱਟ 18 ਸਾਲ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ। ਜੇਕਰ ਤੁਸੀਂ ਇਹਨਾਂ ਸ਼ਰਤਾਂ ਨਾਲ ਸਹਿਮਤ ਨਹੀਂ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਪਲੇਟਫਾਰਮ ਦੀ ਵਰਤੋਂ ਤੁਰੰਤ ਬੰਦ ਕਰ ਦਿਓ।"
+      },
+      {
+        "title": "2. ਪਲੇਟਫਾਰਮ ਦੀ ਭੂਮਿਕਾ ਅਤੇ ਨਾਨ-ਏਜੰਸੀ ਡਿਸਕਲੇਮਰ (Non-Agency Disclaimer)",
+        "content": "Ujobs India ਇੱਕ ਸੁਤੰਤਰ ਟੈਕਨਾਲੋਜੀ ਪਲੇਟਫਾਰਮ ਹੈ ਜਿਸਦਾ ਪ੍ਰਬੰਧਨ Ayushya Healthcare Services ਦੁਆਰਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਅਸੀਂ ਸਿਰਫ਼ ਕੰਮ ਦੇਣ ਵਾਲੇ / ਮਾਲਕ ਅਤੇ ਸੁਤੰਤਰ ਕਾਮੇ / ਸਟਾਫ਼ ਵਿਚਕਾਰ ਸਿੱਧੇ ਸੰਪਰਕ ਨੂੰ ਆਸਾਨ ਬਣਾਉਣ ਲਈ ਇੱਕ ਮਾਧਿਅਮ ਵਜੋਂ ਕੰਮ ਕਰਦੇ ਹਾਂ। <strong>Ujobs India ਕੋਈ ਨੌਕਰੀ ਦੇਣ ਵਾਲੀ ਏਜੰਸੀ, ਬਿਚੋਲੀਆ ਜਾਂ ਲੇਬਰ ਠੇਕੇਦਾਰ ਨਹੀਂ ਹੈ।</strong> ਅਸੀਂ ਸਾਡੇ ਪਲੇਟਫਾਰਮ 'ਤੇ ਦਰਜ ਕਿਸੇ ਵੀ ਕਾਮੇ ਨੂੰ ਕੰਮ 'ਤੇ ਨਹੀਂ ਰੱਖਦੇ, ਨਿਗਰਾਨੀ ਨਹੀਂ ਕਰਦੇ ਜਾਂ ਕਿਸੇ ਦੀ ਸਿਫਾਰਸ਼ ਨਹੀਂ ਕਰਦੇ।",
+        "list": [
+          "<strong>ਕੋਈ ਗਾਰੰਟੀ ਨਹੀਂ:</strong> ਅਸੀਂ ਸਿਰਫ਼ ਕਾਮਿਆਂ ਦੁਆਰਾ ਖੁਦ ਜਮ੍ਹਾਂ ਕਰਵਾਈ ਗਈ ਪ੍ਰੋਫਾਈਲ ਜਾਣਕਾਰੀ ਨੂੰ ਦਰਸਾਉਂਦੇ ਹਾਂ। ਅਸੀਂ ਕਿਸੇ ਵੀ ਕਾਮੇ ਦੇ ਕੰਮ, ਵਿਵਹਾਰ, ਸੁਰੱਖਿਆ ਜਾਂ ਕਾਨੂੰਨੀ ਯੋਗਤਾ ਦੀ ਕੋਈ ਗਾਰੰਟੀ ਨਹੀਂ ਲੈਂਦੇ।",
+          "<strong>ਸੁਤੰਤਰ ਜਾਂਚ:</strong> ਕੰਮ ਦੇਣ ਵਾਲੇ ਮਾਲਕਾਂ ਨੂੰ ਕੰਮ 'ਤੇ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ ਕਾਮਿਆਂ ਦੇ ਆਧਾਰ ਕਾਰਡ/ਆਈਡੀ ਕਾਰਡ ਅਤੇ ਪਿਛਲੇ ਕੰਮ ਦੀ ਖੁਦ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਂਚ ਕਰਨ ਦੀ ਸਖ਼ਤ ਸਲਾਹ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ।",
+          "<strong>ਰੁਜ਼ਗਾਰ ਦਾ ਕੋਈ ਸਮਝੌਤਾ ਨਹੀਂ:</strong> ਕੰਮ ਅਤੇ ਤਨਖਾਹ ਬਾਰੇ ਕੋਈ ਵੀ ਗੱਲਬਾਤ ਪੂਰੀ ਤਰ੍ਹਾਂ ਕੰਮ ਦੇਣ ਵਾਲੇ ਅਤੇ ਕਾਮੇ ਵਿਚਕਾਰ ਇੱਕ ਨਿੱਜੀ ਸਮਝੌਤਾ ਹੈ।"
+        ]
+      },
+      {
+        "title": "3. ਉਪਭੋਗਤਾਵਾਂ ਦੀਆਂ ਜ਼ਿੰਮੇਵਾਰੀਆਂ ਅਤੇ ਵਿਵਹਾਰ",
+        "content": "ਇੱਕ ਸੁਰੱਖਿਅਤ ਅਤੇ ਭਰੋਸੇਮੰਦ ਭਾਈਚਾਰਾ ਬਣਾਈ ਰੱਖਣ ਲਈ, ਸਾਰੇ ਉਪਭੋਗਤਾ ਸਾਡੀਆਂ ਸੇਵਾਵਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਸਮੇਂ ਹੇਠ ਲਿਖੀਆਂ ਜ਼ਿੰਮੇਵਾਰੀਆਂ ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੁੰਦੇ ਹਨ:",
+        "list": [
+          "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਵੇਲੇ 100% ਸਹੀ, ਮੌਜੂਦਾ ਅਤੇ ਪੂਰੀ ਜਾਣਕਾਰੀ ਪ੍ਰਦਾਨ ਕਰਨਾ, ਅਤੇ ਕੋਈ ਵੀ ਝੂਠਾ ਪ੍ਰੋਫਾਈਲ ਨਾ ਬਣਾਉਣਾ।",
+          "ਐਪ 'ਤੇ ਕਿਸੇ ਵੀ ਤਰ੍ਹਾਂ ਦੀ ਇਤਰਾਜ਼ਯੋਗ, ਅਪਮਾਨਜਨਕ, ਵਪਾਰਕ ਸਪੈਮ ਜਾਂ ਗੈਰ-ਕਾਨੂੰਨੀ ਸਮੱਗਰੀ ਪੋਸਟ ਨਾ ਕਰਨਾ।",
+          "ਸਹੀ ਰੁਜ਼ਗਾਰ, ਭੇਦਭਾਵ ਰਹਿਤ ਅਤੇ ਘੱਟੋ-ਘੱਟ ਉਜਰਤ ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼ਾਂ ਸਮੇਤ ਸਾਰੇ ਸਥਾਨਕ, ਰਾਜ ਅਤੇ ਕੇਂਦਰ ਸਰਕਾਰ ਦੇ ਕਾਨੂੰਨਾਂ ਦੀ ਪਾਲਣਾ ਕਰਨਾ।",
+          "ਕੰਮ ਲੱਭਣ ਵਾਲੇ ਕਾਮਿਆਂ ਤੋਂ ਇੰਟਰਵਿਊ ਲੈਣ ਜਾਂ ਨੌਕਰੀ ਦਿਵਾਉਣ ਦੇ ਨਾਮ 'ਤੇ ਕਦੇ ਵੀ ਪੈਸੇ ਦੀ ਮੰਗ ਨਾ ਕਰਨਾ।"
+        ]
+      },
+      {
+        "title": "4. ਕੰਮ ਦੇ ਸਹੀ ਨਿਯਮ ਅਤੇ ਉਜਰਤ",
+        "content": "ਕੰਮ ਦੇਣ ਵਾਲੇ / ਮਾਲਕ ਇਹ ਸਹਿਮਤੀ ਦਿੰਦੇ ਹਨ ਕਿ ਉਹ ਕਾਮਿਆਂ ਨੂੰ ਸਹੀ ਤਨਖਾਹ, ਸੁਰੱਖਿਅਤ ਅਤੇ ਸਾਫ਼-ਸੁਥਰਾ ਕੰਮ ਦਾ ਮਾਹੌਲ, ਅਤੇ ਕੰਮ ਦੇ ਸਹੀ ਘੰਟੇ ਪ੍ਰਦਾਨ ਕਰਨਗੇ। ਲਿੰਗ, ਜਾਤ, ਧਰਮ, ਖੇਤਰ ਜਾਂ ਸਰੀਰਕ ਯੋਗਤਾ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਵੀ ਭੇਦਭਾਵ ਕਰਨਾ ਸਖ਼ਤ ਮਨ੍ਹਾ ਹੈ। ਗਲਤ ਵਿਵਹਾਰ ਜਾਂ ਤੈਅ ਕੀਤੀ ਤਨਖਾਹ ਨਾ ਦੇਣ 'ਤੇ ਤੁਹਾਡਾ ਖਾਤਾ ਹਮੇਸ਼ਾ ਲਈ ਬੰਦ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ ਅਤੇ ਸਥਾਨਕ ਪੁਲਿਸ ਕੋਲ ਸ਼ਿਕਾਇਤ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।"
+      },
+      {
+        "title": "5. ਦੇਣਦਾਰੀ ਦੀ ਸੀਮਾ",
+        "content": "Ujobs India, ਇਸਦੇ ਨਿਰਦੇਸ਼ਕ, ਕਰਮਚਾਰੀ, ਮੂਲ ਕੰਪਨੀ (Ayushya Healthcare Services) ਜਾਂ ਸਹਿਯੋਗੀ ਕਿਸੇ ਵੀ ਕਿਸਮ ਦੇ ਆਪਸੀ ਵਿਵਾਦ, ਵਿੱਤੀ ਨੁਕਸਾਨ, ਜਾਂ ਕਿਸੇ ਵੀ ਅਣਹੋਣੀ ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਨਹੀਂ ਹੋਣਗੇ। ਐਪ 'ਤੇ ਜੁੜੇ ਲੋਕ ਆਪਣੀ ਮਰਜ਼ੀ ਅਤੇ ਜ਼ਿੰਮੇਵਾਰੀ 'ਤੇ ਇੱਕ-ਦੂਜੇ ਨਾਲ ਸੰਪਰਕ ਕਰਦੇ ਹਨ ਅਤੇ ਕੰਮ ਤੈਅ ਕਰਦੇ ਹਨ।"
+      }
+    ]
+  },
+  "privacy": {
+    "seo": {
+      "title": "ਪ੍ਰਾਈਵੇਸੀ ਪਾਲਿਸੀ | Ujobs India",
+      "description": "ਜਾਣੋ ਕਿ Ujobs India ਭਾਰਤੀ DPDP ਐਕਟ ਦੇ ਤਹਿਤ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਕਿਵੇਂ ਇਕੱਠੀ, ਐਨਕ੍ਰਿਪਟ ਅਤੇ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਹੈ।",
+      "keywords": "ਪ੍ਰਾਈਵੇਸੀ ਪਾਲਿਸੀ, ਡੇਟਾ ਸੁਰੱਖਿਆ, dpdp ਐਕਟ ਪਾਲਣਾ, ਡੇਟਾ ਐਨਕ੍ਰਿਪਸ਼ਨ, ਉਪਭੋਗਤਾ ਸੁਰੱਖਿਆ, ujobs ਪ੍ਰਾਈਵੇਸੀ"
+    },
+    "hero": {
+      "title": "ਪ੍ਰਾਈਵੇਸੀ ਪਾਲਿਸੀ",
+      "lastUpdated": "ਆਖਰੀ ਅੱਪਡੇਟ: ਜੂਨ 2026"
+    },
+    "sections": [
+      {
+        "title": "1. ਜਾਣਕਾਰੀ ਇਕੱਠੀ ਕਰਨਾ",
+        "content": "ਸੁਰੱਖਿਅਤ ਸਿੱਧੇ ਸੰਪਰਕ ਲਈ, ਜਦੋਂ ਤੁਸੀਂ Ujobs India ਮੋਬਾਈਲ ਐਪ 'ਤੇ ਰਜਿਸਟਰ ਕਰਦੇ ਹੋ, ਤਾਂ ਅਸੀਂ ਤੁਹਾਡੇ ਦੁਆਰਾ ਆਪਣੀ ਮਰਜ਼ੀ ਨਾਲ ਦਿੱਤੀ ਗਈ ਹੇਠ ਲਿਖੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਇਕੱਠੀ ਕਰਦੇ ਹਾਂ:",
+        "list": [
+          "<strong>ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਦੇ ਵੇਰਵੇ:</strong> ਨਾਮ, ਵੈਰੀਫਾਈਡ ਮੋਬਾਈਲ ਨੰਬਰ, ਪਸੰਦੀਦਾ ਭਾਸ਼ਾ, ਤੁਹਾਡੀ ਭੂਮਿਕਾ (ਕੰਮ ਦੇਣ ਵਾਲੇ ਜਾਂ ਕਾਮੇ / ਸਟਾਫ਼) ਅਤੇ ਪ੍ਰੋਫਾਈਲ ਫੋਟੋ।",
+          "<strong>ਕਾਮਿਆਂ ਦੇ ਪ੍ਰੋਫਾਈਲ ਵੇਰਵੇ:</strong> ਕੰਮ ਦੀ ਸ਼੍ਰੇਣੀ, ਤਜ਼ਰਬਾ, ਉਮਰ, ਲਿੰਗ, ਉਮੀਦ ਕੀਤੀ ਤਨਖਾਹ, ਅਤੇ ਲਗਭਗ ਰਹਿਣ ਦਾ ਇਲਾਕਾ।",
+          "<strong>ਸਵੈ-ਐਲਾਨੇ ਦਸਤਾਵੇਜ਼:</strong> ਪ੍ਰੋਫਾਈਲ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਦੀ ਜਾਂਚ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਕਾਮਿਆਂ ਦੁਆਰਾ ਆਪਣੀ ਮਰਜ਼ੀ ਨਾਲ ਅਪਲੋਡ ਕੀਤੇ ਗਏ ਆਧਾਰ ਨੰਬਰ, ਪੈਨ ਕਾਰਡ ਦੇ ਵੇਰਵੇ ਜਾਂ ਪੁਲਿਸ ਵੈਰੀਫਿਕੇਸ਼ਨ ਸਰਟੀਫਿਕੇਟ।"
+        ]
+      },
+      {
+        "title": "2. ਡਿਜੀਟਲ ਪਰਸਨਲ ਡੇਟਾ ਪ੍ਰੋਟੈਕਸ਼ਨ (DPDP) ਐਕਟ ਦੀ ਪਾਲਣਾ",
+        "content": "Ujobs India ਭਾਰਤ ਦੇ ਡਿਜੀਟਲ ਪਰਸਨਲ ਡੇਟਾ ਪ੍ਰੋਟੈਕਸ਼ਨ (DPDP) ਐਕਟ ਦੀ ਪੂਰੀ ਤਰ੍ਹਾਂ ਪਾਲਣਾ ਕਰਦਾ ਹੈ। ਤੁਹਾਡੇ ਨਿੱਜੀ ਦਸਤਾਵੇਜ਼ਾਂ ਅਤੇ ਡੇਟਾ ਨੂੰ ਅਣਅਧਿਕਾਰਤ ਪਹੁੰਚ ਤੋਂ 100% ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਅਸੀਂ ਉੱਚ ਪੱਧਰੀ ਸੁਰੱਖਿਆ ਪ੍ਰੋਟੋਕੋਲ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਾਂ, ਜਿਸ ਵਿੱਚ ਸਟੋਰੇਜ ਵਿੱਚ AES-256 ਡੇਟਾ ਐਨਕ੍ਰਿਪਸ਼ਨ ਅਤੇ ਟ੍ਰਾਂਸਮਿਸ਼ਨ ਦੌਰਾਨ ਸੁਰੱਖਿਅਤ TLS 1.3 ਐਨਕ੍ਰਿਪਸ਼ਨ ਸ਼ਾਮਲ ਹੈ।"
+      },
+      {
+        "title": "3. ਅਸੀਂ ਜਾਣਕਾਰੀ ਦੀ ਵਰਤੋਂ ਅਤੇ ਸਾਂਝੀ ਕਿਵੇਂ ਕਰਦੇ ਹਾਂ",
+        "content": "ਤੁਹਾਡਾ ਡੇਟਾ ਸਿਰਫ਼ ਸਿੱਧੇ ਕਾਮੇ ਕਨੈਕਸ਼ਨਾਂ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ। ਅਸੀਂ ਸਿਰਫ਼ ਸਾਡੇ ਪਲੇਟਫਾਰਮ 'ਤੇ ਵੈਰੀਫਾਈਡ ਕੰਮ ਦੇਣ ਵਾਲਿਆਂ ਨੂੰ ਹੀ ਤੁਹਾਡੇ ਬੁਨਿਆਦੀ ਵੇਰਵੇ (ਨਾਮ, ਤਜ਼ਰਬਾ, ਇਲਾਕਾ) ਅਤੇ ਵੈਰੀਫਿਕੇਸ਼ਨ ਸੂਚਕ (ਜਿਵੇਂ ਕਿ 'ID-Checked') ਦਿਖਾਉਂਦੇ ਹਾਂ। <strong>ਅਸੀਂ ਕਿਸੇ ਵੀ ਹਾਲਤ ਵਿੱਚ ਤੁਹਾਡੇ ਨਿੱਜੀ ਮੋਬਾਈਲ ਨੰਬਰ ਜਾਂ ਦਸਤਾਵੇਜ਼ ਕਿਸੇ ਤੀਜੀ ਧਿਰ ਜਾਂ ਬਾਹਰੀ ਮਾਰਕੀਟਿੰਗ ਕੰਪਨੀਆਂ ਨੂੰ ਨਹੀਂ ਵੇਚਦੇ ਜਾਂ ਕਿਰਾਏ 'ਤੇ ਨਹੀਂ ਦਿੰਦੇ ਹਾਂ।</strong>"
+      },
+      {
+        "title": "4. ਲੋਕੇਸ਼ਨ ਸੇਵਾਵਾਂ ਅਤੇ ਇਜਾਜ਼ਤਾਂ",
+        "content": "ਸਾਡੀ ਐਪ ਤੁਹਾਡੇ ਘਰ ਦੇ 5-10 ਕਿਲੋਮੀਟਰ ਦੇ ਦਾਇਰੇ ਵਿੱਚ ਢੁਕਵੀਆਂ ਨੌਕਰੀਆਂ ਅਤੇ ਉਮੀਦਵਾਰਾਂ ਦੇ ਪ੍ਰੋਫਾਈल ਦਿਖਾਉਣ ਲਈ ਲਗਭਗ ਲੋਕੇਸ਼ਨ ਡੇਟਾ (ਤੁਹਾਡੀ ਸਹਿਮਤੀ ਨਾਲ) ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ। ਇਹ ਡੇਟਾ ਸਾਡੇ ਸਰਵਰਾਂ 'ਤੇ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਪ੍ਰੋਸੈਸ ਕੀਤਾ ਜਾਂਦਾ ਹੈ আৰু ਇਸਨੂੰ ਕਦੇ ਵੀ ਪੱਕੇ ਤੌਰ 'ਤੇ ਸਟੋਰ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ ਜਾਂ ਬਾਹਰੀ ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ।"
+      },
+      {
+        "title": "5. ਡੇਟਾ ਹਟਾਉਣ ਅਤੇ ਸੋਧਣ ਦਾ ਤੁਹਾਡਾ ਅਧਿਕਾਰ",
+        "content": "ਪ੍ਰਾਈਵੇਸੀ ਨਿਯਮਾਂ ਅਨੁਸਾਰ, ਤੁਹਾਡੇ ਨਿੱਜੀ ਡੇਟਾ 'ਤੇ ਤੁਹਾਡਾ ਪੂਰਾ ਅਧਿਕਾਰ ਹੈ। ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਸਮੇਂ ਆਪਣੇ ਖਾਤੇ ਅਤੇ ਅਪਲੋਡ ਕੀਤੇ ਦਸਤਾਵੇਜ਼ਾਂ ਨੂੰ ਸੋਧ ਸਕਦੇ ਹੋ ਜਾਂ ਪੱਕੇ ਤੌਰ 'ਤੇ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ। ਤੁਸੀਂ ਐਪ ਸੈਟਿੰਗਾਂ ਰਾਹੀਂ ਜਾਂ ਸਾਡੀ ਸਪੋਰਟ ਈਮੇਲ <span className=\"text-brand-600 font-bold\">support@ujobsindia.com</span> 'ਤੇ ਸਿੱਧਾ ਮੇਲ ਭੇਜ ਕੇ ਆਪਣਾ ਡੇਟਾ ਪੂਰੀ ਤਰ੍ਹਾਂ ਹਟਾਉਣ ਦੀ ਬੇਨਤੀ ਕਰ ਸਕਦੇ ਹੋ।",
+        "list": [
+          "ਡੇਟਾ ਸੋਧ ਜਾਂ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਬੇਨਤੀ",
+          "ਲੋਕੇਸ਼ਨ ਟਰੈਕਿੰਗ ਦੀ ਇਜਾਜ਼ਤ ਵਾਪਸ ਲੈਣਾ",
+          "ਖਾਤਾ ਅਤੇ ਦਸਤਾਵੇਜ਼ ਪੱਕੇ ਤੌਰ 'ਤੇ ਮਿਟਾਉਣਾ"
+        ]
+      }
+    ]
+  },
+  "seo": {
+    "title": "Ujobs India - ਭਰੋਸੇਮੰਦ ਸਟਾਫ ਅਤੇ ਭਰੋਸੇਮੰਦ ਨੌਕਰੀਆਂ",
+    "description": "ਘਰ ਦੀ ਮਦਦ ਅਤੇ ਹੈਲਥਕੇਅਰ ਲਈ ਭਾਰਤ ਦਾ ਭਰੋਸੇਮੰਦ ਪਲੇਟਫਾਰਮ। ਭਰੋਸੇਮੰਦ ਨਰਸ, ਡਰਾਈਵਰ ਅਤੇ ਮੇਡ ਸਿੱਧਾ ਹਾਇਰ ਕਰੋ।",
+    "keywords": "ਨੌਕਰੀ, ਸਟਾਫ ਹਾਇਰਿੰਗ, ਨਰਸ, ਡਰਾਈਵਰ, ਮੇਡ, ਕੇਅਰਟੇਕਰ, ਭਰੋਸੇਮੰਦ ਜੋਬਸ, ਘਰੇਲੂ ਕਾਮੇ",
+    "categoryInCityTitle": "{{city}} ਵਿੱਚ ਬੈਸਟ {{category}} | Ujobs India",
+    "categoryInCityDescription": "{{city}} ਵਿੱਚ ਬੈਸਟ ਭਰੋਸੇਮੰਦ {{category}} ਪਾਓ। ਡਾਇਰੈਕਟ ਕਾਲ, ਕੋਈ ਕਮਿਸ਼ਨ ਨਹੀਂ।",
+    "categoryTitle": "ਭਾਰਤ ਵਿੱਚ ਬੈਸਟ {{category}} | Ujobs India",
+    "categoryDescription": "ਪੂਰੇ ਭਾਰਤ ਵਿੱਚ ਭਰੋਸੇਮੰਦ {{category}} ਹਾਇਰ ਕਰੋ। ਸਿੱਧਾ ਸੰਪਰਕ।",
+    "cityTitle": "{{city}} ਵਿੱਚ ਟਾਪ ਭਰੋਸੇਮੰਦ ਸਟਾਫ | Ujobs India",
+    "cityDescription": "{{city}} ਵਿੱਚ ਭਰੋਸੇਮੰਦ ਨਰਸ, ਡਰਾਈਵਰ ਅਤੇ ਮੇਡ ਲੱਭੋ। ਭਾਰਤ ਦੀ ਸੁਰੱਖਿਅਤ ਹੋਮ ਸਟਾਫਿੰਗ ਐਪ।"
+  }
+}
