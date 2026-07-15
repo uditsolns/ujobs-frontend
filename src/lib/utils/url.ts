@@ -77,7 +77,7 @@ function getImageBaseUrl(): string {
   }
   
   // Default for production - direct storage access
-  return 'https://ujobsindia.com/aayusha-backend/storage/app/public';
+  return 'https://ujobsindia.com/aayusha-backend/storage';
 }
 
 /**
