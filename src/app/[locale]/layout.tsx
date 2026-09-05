@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { GeistSans } from 'geist/font/sans';
 import { GeistMono } from 'geist/font/mono';
+import Script from "next/script";
 import "../../styles/globals.css";
 import { i18n, Locale, getDictionary } from "@/i18n";
 import { AuthProvider } from "@/contexts/AuthContext";
@@ -130,6 +131,31 @@ export default async function RootLayout({
 
   return (
     <html lang={locale} className={`${GeistSans.variable} ${GeistMono.variable}`}>
+      <head>
+        {/* Google Tag (gtag.js) */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-BX98G1H160"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-BX98G1H160');
+          `}
+        </Script>
+        {/* Microsoft Clarity */}
+        <Script id="microsoft-clarity" strategy="afterInteractive">
+          {`
+            (function(c,l,a,r,i,t,y){
+                c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+            })(window, document, "clarity", "script", "y9vmbxyx7b");
+          `}
+        </Script>
+      </head>
       <body className="font-sans antialiased">
         <AuthProvider>
           <div className="min-h-screen flex flex-col">
